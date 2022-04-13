@@ -1,5 +1,7 @@
 import datetime
+import logging
 import os
+import sys
 import pandas as pd
 from py4j.java_gateway import JavaGateway, launch_gateway
 
@@ -22,17 +24,18 @@ class HuBMAPy:
                        die_on_exit=True)
         self._gateway = JavaGateway()
         self._output_folder = output_folder
+        self._logger = self._logger()
         self._query_operation = self._gateway.jvm.org.obolibrary.robot.QueryOperation()
         self._dataset = self._query_operation.loadOntologyAsDataset(self._load_ontology(save_reasoned_ontology))
         if not os.path.exists(output_folder):
             os.mkdir(output_folder)
 
     def _load_ontology(self, save_reasoned_ontology):
-        print("Loading Ontology...")
+        self._logger.info("Loading Ontology...")
         io_helper = self._gateway.jvm.org.obolibrary.robot.IOHelper()
         ontology = io_helper.loadOntology(os.path.dirname(os.path.abspath(__file__)) + '/resources/ccf.owl')
 
-        print("Reasoning over ontology...")
+        self._logger.info("Reasoning over ontology...")
         reasoner_factory = self._gateway.jvm.org.semanticweb.elk.owlapi.ElkReasonerFactory()
         reason_operation = self._gateway.jvm.org.obolibrary.robot.ReasonOperation()
         options_map = self._gateway.jvm.java.util.HashMap()
@@ -46,7 +49,7 @@ class HuBMAPy:
         return ontology
 
     def do_query(self, query, query_name='hubmap-query'):
-        print("-Executing query:\n" + query + "\n")
+        self._logger.debug("Executing query:\n" + query + "\n")
         timestamp = datetime.datetime.now().strftime("%d-%m-%YT%H-%M-%S")
         query_results_file_name = self._output_folder + "/" + query_name + "-" + timestamp + ".csv"
         query_results_file = self._gateway.jvm.java.io.File(query_results_file_name)
@@ -158,3 +161,13 @@ class HuBMAPy:
                 "  dc:references ?doi ] . \n" + \
                 "?ct rdfs:label ?ct_lbl }"
         return self.do_query(query, self.evidence_for_all_cell_types.__name__)
+
+    @staticmethod
+    def _logger():
+        logger = logging.getLogger(__name__)
+        logger.setLevel(logging.DEBUG)
+        formatter = logging.Formatter("%(asctime)s %(levelname)s [%(name)s]: %(message)s", "%Y-%m-%d %H:%M:%S")
+        console_handler = logging.StreamHandler(sys.stdout)
+        console_handler.setFormatter(formatter)
+        logger.addHandler(console_handler)
+        return logger
