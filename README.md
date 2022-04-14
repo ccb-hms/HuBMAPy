@@ -43,3 +43,8 @@ Currently the library implements the following functions:
 * locations_of_all_cell_types()
 * evidence_for_specific_cell_type(**cell_type**=`obo:CL_0002394`)  # i.e., publication DOIs
 * evidence_for_all_cell_types()
+
+## Dependencies
+
+* ROBOT v1.8.3 (https://github.com/ontodev/robot)
+* CCF Ontology v2.0.0-alpha.11 (https://github.com/hubmapconsortium/ccf-ontology)
