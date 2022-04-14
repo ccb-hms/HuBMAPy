@@ -1,26 +1,34 @@
 # HuBMAPy
 
-A simple package to perform popular queries against the HuBMAP Human Reference Atlas Ontology (aka CCF Ontology).
+A package to perform queries against the HuBMAP Human Reference Atlas Ontology.
 
 ## Usage
 
 Install package using **pip**:
 
-`pip3 install .`
+```
+pip3 install .
+```
 
 Import the HuBMAPy library:
 
-`import hubmapy`
+```
+import hubmapy
+```
 
 Then use as follows:
 
-`hubmap = hubmapy.HuBMAPy()`
+```
+hubmap = hubmapy.HuBMAPy()
+```
 
 From here various queries can be performed, for example:
 
-`df = hubmap.biomarkers_for_all_cell_types()`
+```
+df = hubmap.biomarkers_for_all_cell_types()
+```
 
-where `df` contains a data frame of the query results.
+where `df` is a data frame containing the query results.
 
 ## Supported Queries
 
