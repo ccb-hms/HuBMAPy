@@ -1,0 +1,21 @@
+PREFIX ccf: <http://purl.org/ccf/>
+PREFIX obo: <http://purl.obolibrary.org/obo/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dc: <http://purl.org/dc/terms/>
+PREFIX hgnc: <http://identifiers.org/hgnc/>
+
+SELECT ?ct ?ct_lbl ?marker ?marker_lbl WHERE {
+    ?ct rdfs:subClassOf [
+        owl:onProperty obo:RO_0015004 ;
+        owl:someValuesFrom ?marker_set ] ;
+        rdfs:label ?ct_lbl ;
+        ccf:ccf_located_in ?as .
+    ?as rdfs:label ?as_lbl .
+    ?marker_set owl:intersectionOf ?list .
+    ?list rdf:rest*/rdf:first [
+        owl:onProperty ccf:has_marker_component ;
+        owl:someValuesFrom ?marker ] .
+    ?marker rdfs:label ?marker_lbl
+}
