@@ -75,4 +75,4 @@ The package supports the following built-in queries:
 ## Dependencies
 
 * ROBOT v1.8.3 (https://github.com/ontodev/robot)
-* CCF Ontology v2.0.0-alpha.11 (https://github.com/hubmapconsortium/ccf-ontology)
+* CCF Ontology v2.0.0-alpha.18 (https://github.com/hubmapconsortium/ccf-ontology)
