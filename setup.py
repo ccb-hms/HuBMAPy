@@ -6,13 +6,13 @@ long_description = open('README.md').read()
 with open('requirements.txt') as f:
     requirements = f.read().splitlines()
 
-version = '0.1.0'
+version = '0.2.0'
 
 setup(
     name='HuBMAPy',
     version=version,
     url='https://github.com/ccb-hms/HuBMAPy',
-    description='A simple package to perform popular queries against the HuBMAP Human Reference Atlas Ontology',
+    description='A package to query the HuBMAP Human Reference Atlas Ontology',
     long_description=long_description,
     long_description_content_type='text/markdown',
     author='Center for Computational Biomedicine, Harvard Medical School',

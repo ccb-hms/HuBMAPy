@@ -1,14 +1,35 @@
 # HuBMAPy
 
-A package to perform queries against the HuBMAP Human Reference Atlas Ontology.
+A package to query the HuBMAP Human Reference Atlas Ontology. The package can be used programmatically or through a command-line interface.
 
-## Usage
+## Installation
 
-Install package using **pip**:
+Install package using **pip** on the cloned repository folder:
 
 ```
 pip3 install .
 ```
+
+## Command Line Interface
+
+`hubmapy -q QUERY [-o OUTPUT] [-n NAME] [-r]`
+
+To display a help message with descriptions of tool arguments do:
+
+`hubmapy -h` or `hubmapy --help`
+
+### Required arguments
+`-q QUERY` Input query file containing a single SPARQL query.
+
+### Optional arguments
+
+`-o OUTPUT` Path to output folder for the query results files.
+
+`-n NAME`   Name of the query, to be included in the generated query results file.
+
+`-r SAVE_REASONED_ONTOLOGY`   Save the ontology with its inferred axioms after reasoning.
+
+## Programmatic Usage
 
 Import the HuBMAPy library:
 
@@ -22,7 +43,7 @@ Then use as follows:
 hubmap = hubmapy.HuBMAPy()
 ```
 
-From here various queries can be performed, for example:
+From here various built-in queries can be performed, for example:
 
 ```
 df = hubmap.biomarkers_for_all_cell_types()
@@ -30,9 +51,16 @@ df = hubmap.biomarkers_for_all_cell_types()
 
 where `df` is a data frame containing the query results.
 
-## Supported Queries
+Additionally, it is possible to perform user-specified queries as follows:
+```
+df = hubmap.do_user_query(query_file_path='...')
+```
 
-Currently the library implements the following functions:
+where `query_file_path` is an absolute path to a SPARQL query file.
+
+## Built-in Queries
+
+The package supports the following built-in queries:
 
 * biomarkers_for_all_cell_types()
 * biomarkers_for_all_cell_types_in_anatomical_structure(**anatomical_structure**=`obo:UBERON_0002371`)  # bone marrow
