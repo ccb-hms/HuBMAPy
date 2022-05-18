@@ -80,7 +80,7 @@ class HuBMAPy:
         self._query_operation.runQuery(self._dataset, query, query_results_file, output_format)
         return pd.read_csv(query_results_file_name)
 
-    def do_user_query(self, query_file_path, query_name='user_query'):
+    def do_query_from_file(self, query_file_path, query_name='user_query'):
         """
         Execute the query in the specified file against the loaded ontology
 

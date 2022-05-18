@@ -14,4 +14,4 @@ if __name__ == "__main__":
                         help="Save the ontology with its inferred axioms after reasoning (default=False)")
     arguments = parser.parse_args()
     hubmap = HuBMAPy(output_folder=arguments.output, save_reasoned_ontology=arguments.save_reasoned_ontology)
-    hubmap.do_user_query(query_file_path=arguments.query, query_name=arguments.name)
+    hubmap.do_query_from_file(query_file_path=arguments.query, query_name=arguments.name)
