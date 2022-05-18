@@ -49,11 +49,29 @@ class HuBMAPy:
                 ontology_version = str(annotation.getValue().asLiteral().get().getLiteral())
         return ontology_version
 
-    def load_query(self, query_file_name):
-        query_file = open(os.path.dirname(os.path.abspath(__file__)) + '/queries/' + query_file_name)
-        return query_file.read()
+    def _load_query(self, query_file, built_in=True):
+        if built_in:
+            query = open(os.path.dirname(os.path.abspath(__file__)) + '/queries/' + query_file)
+        else:
+            query = open(query_file)
+        return query.read()
 
-    def do_query(self, query, query_name='hubmap-query'):
+    def do_query(self, query, query_name='hubmap_query'):
+        """
+        Execute the given query against the loaded ontology
+
+        Parameters
+        ----------
+        query: str
+            SPARQL query string
+        query_name : str
+            Name of the query to be included in the output query results file
+
+        Returns
+        ----------
+        df
+            Data frame containing the query results
+        """
         self._logger.debug("Executing query:\n" + query + "\n")
         timestamp = datetime.datetime.now().strftime("%d-%m-%YT%H-%M-%S")
         query_results_file_name = self._output_folder + "/" + query_name + "-" + timestamp + ".csv"
@@ -62,49 +80,68 @@ class HuBMAPy:
         self._query_operation.runQuery(self._dataset, query, query_results_file, output_format)
         return pd.read_csv(query_results_file_name)
 
+    def do_user_query(self, query_file_path, query_name='user_query'):
+        """
+        Execute the query in the specified file against the loaded ontology
+
+        Parameters
+        ----------
+        query_file_path: str
+            Absolute path to a SPARQL query file
+        query_name : str
+            Name of the query to be included in the output query results file
+
+        Returns
+        ----------
+        df
+            Data frame containing the query results
+        """
+        query = self._load_query(query_file=query_file_path, built_in=False)
+        return self.do_query(query=query, query_name=query_name)
+
     def biomarkers_for_all_cell_types(self):
-        query = self.load_query('biomarkers_for_all_cell_types.rq')
+        query = self._load_query('biomarkers_for_all_cell_types.rq')
         return self.do_query(query, query_name=self.biomarkers_for_all_cell_types.__name__)
 
     def biomarkers_for_all_cell_types_in_anatomical_structure(self, anatomical_structure=_DEFAULT_ANATOMICAL_STRUCTURE):
-        query = self.load_query('biomarkers_for_all_cell_types_in_anatomical_structure.rq')
+        query = self._load_query('biomarkers_for_all_cell_types_in_anatomical_structure.rq')
         query = query.replace("?anatomical_structure", anatomical_structure)
         return self.do_query(query, query_name=self.biomarkers_for_all_cell_types_in_anatomical_structure.__name__)
 
     def biomarkers_for_cell_type_in_anatomical_structure(self, cell_type=_DEFAULT_CELL_TYPE,
                                                          anatomical_structure=_DEFAULT_ANATOMICAL_STRUCTURE):
-        query = self.load_query('biomarkers_for_cell_type_in_anatomical_structure.rq')
+        query = self._load_query('biomarkers_for_cell_type_in_anatomical_structure.rq')
         query = query.replace("?cell_type", cell_type)
         query = query.replace("?anatomical_structure", anatomical_structure)
         return self.do_query(query, query_name=self.biomarkers_for_cell_type_in_anatomical_structure.__name__)
 
     # TODO refactor to obtain tissues that collide with parts of the anatomical structure
     def tissue_blocks_in_anatomical_structure(self, anatomical_structure="obo:UBERON_0000948"):
-        query = self.load_query('tissue_blocks_in_anatomical_structure.rq')
+        query = self._load_query('tissue_blocks_in_anatomical_structure.rq')
         query = query.replace("?anatomical_structure", anatomical_structure)
         return self.do_query(query, query_name=self.tissue_blocks_in_anatomical_structure.__name__)
 
     # TODO location of anatomical structure (filler of 'collides_with) is currently represented as a string literal
     def tissue_block_count_for_all_anatomical_structures(self):
-        query = self.load_query('tissue_block_count_for_all_anatomical_structures.rq')
+        query = self._load_query('tissue_block_count_for_all_anatomical_structures.rq')
         return self.do_query(query, query_name=self.tissue_block_count_for_all_anatomical_structures.__name__)
 
     def anatomical_structures_in_tissue_block(self, tissue_block=_DEFAULT_TISSUE_BLOCK):
-        query = self.load_query('anatomical_structures_in_tissue_block.rq')
+        query = self._load_query('anatomical_structures_in_tissue_block.rq')
         query = query.replace("?tissue_block", tissue_block)
         return self.do_query(query, query_name=self.anatomical_structures_in_tissue_block.__name__)
 
     def locations_of_all_cell_types(self):
-        query = self.load_query('locations_of_all_cell_types.rq')
+        query = self._load_query('locations_of_all_cell_types.rq')
         return self.do_query(query, query_name=self.locations_of_all_cell_types.__name__)
 
     def evidence_for_specific_cell_type(self, cell_type=_DEFAULT_CELL_TYPE):
-        query = self.load_query('evidence_for_specific_cell_type.rq')
+        query = self._load_query('evidence_for_specific_cell_type.rq')
         query = query.replace("?cell_type", cell_type)
         return self.do_query(query, query_name=self.evidence_for_specific_cell_type.__name__)
 
     def evidence_for_all_cell_types(self):
-        query = self.load_query('evidence_for_all_cell_types.rq')
+        query = self._load_query('evidence_for_all_cell_types.rq')
         return self.do_query(query, self.evidence_for_all_cell_types.__name__)
 
     @staticmethod
