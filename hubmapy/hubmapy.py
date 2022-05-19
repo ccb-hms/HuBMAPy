@@ -10,6 +10,7 @@ class HuBMAPy:
     _DEFAULT_ANATOMICAL_STRUCTURE = "obo:UBERON_0000006"
     _DEFAULT_CELL_TYPE = "obo:CL_0000171"
     _DEFAULT_TISSUE_BLOCK = "<http://dx.doi.org/10.1016/j.trsl.2017.07.006#TissueBlock>"
+    _DEFAULT_BIOMARKERS = "hgnc:633,hgnc:637,hgnc:800"
 
     def __init__(self, output_folder=os.getcwd(), save_reasoned_ontology=False):
         launch_gateway(jarpath=os.path.dirname(os.path.abspath(__file__)) + '/resources/robot.jar',
@@ -143,6 +144,11 @@ class HuBMAPy:
     def evidence_for_all_cell_types(self):
         query = self._load_query('evidence_for_all_cell_types.rq')
         return self.do_query(query, self.evidence_for_all_cell_types.__name__)
+
+    def cell_types_from_biomarkers(self, biomarkers=_DEFAULT_BIOMARKERS):
+        query = self._load_query('cell_types_from_biomarkers.rq')
+        query = query.replace("?biomarkers", biomarkers)
+        return self.do_query(query, query_name=self.cell_types_from_biomarkers.__name__)
 
     @staticmethod
     def _logger():

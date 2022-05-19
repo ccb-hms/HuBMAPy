@@ -1,0 +1,23 @@
+PREFIX ccf: <http://purl.org/ccf/>
+PREFIX obo: <http://purl.obolibrary.org/obo/>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dc: <http://purl.org/dc/terms/>
+PREFIX hgnc: <http://identifiers.org/hgnc/>
+
+SELECT DISTINCT ?ct ?ct_label ?as ?as_label WHERE {
+    ?ct rdfs:subClassOf [
+        owl:onProperty obo:RO_0015004 ;
+        owl:someValuesFrom ?characterizing_biomarker_set ] .
+    ?characterizing_biomarker_set owl:intersectionOf ?list .
+    FILTER EXISTS {
+      ?list rdf:rest*/rdf:first/owl:someValuesFrom ?marker .
+      FILTER ( ?marker IN ( ?biomarkers ) )
+    } .
+    ?ct rdfs:label ?ct_label ;
+        ccf:ccf_located_in ?as.
+    ?as rdfs:label ?as_label .
+}
+GROUP BY ?ct ?ct_label ?as ?as_label
+ORDER BY ?ct_label
