@@ -12,3 +12,4 @@ if __name__ == '__main__':
     df_7 = hubmap.locations_of_all_cell_types()
     df_8 = hubmap.evidence_for_specific_cell_type(cell_type='obo:CL_0002394')  # i.e., publication DOIs
     df_9 = hubmap.evidence_for_all_cell_types()
+    df_10 = hubmap.cell_types_from_biomarkers()

@@ -3,7 +3,7 @@ import logging
 import os
 import sys
 import pandas as pd
-from py4j.java_gateway import JavaGateway, launch_gateway
+from py4j.java_gateway import JavaGateway
 
 
 class HuBMAPy:
@@ -12,36 +12,40 @@ class HuBMAPy:
     _DEFAULT_TISSUE_BLOCK = "<http://dx.doi.org/10.1016/j.trsl.2017.07.006#TissueBlock>"
     _DEFAULT_BIOMARKERS = "hgnc:633,hgnc:637,hgnc:800"
 
-    def __init__(self, output_folder=os.getcwd(), save_reasoned_ontology=False):
-        launch_gateway(jarpath=os.path.dirname(os.path.abspath(__file__)) + '/resources/robot.jar',
-                       classpath='org.obolibrary.robot.PythonOperation',
-                       port=25333,
-                       die_on_exit=True)
-        self._gateway = JavaGateway()
+    def __init__(self, output_folder=os.getcwd()):
+        self._gateway = JavaGateway().launch_gateway(
+            jarpath=os.path.dirname(os.path.abspath(__file__)) + '/resources/robot.jar',
+            classpath='org.obolibrary.robot.PythonOperation',
+            port=25333,
+            die_on_exit=True)
         self._output_folder = output_folder
         self._logger = self._logger()
         self._query_operation = self._gateway.jvm.org.obolibrary.robot.QueryOperation()
-        self._dataset = self._query_operation.loadOntologyAsDataset(self._load_ontology(save_reasoned_ontology))
+        self._dataset = self._query_operation.loadOntologyAsDataset(self._load_ontology())
         if not os.path.exists(output_folder):
             os.mkdir(output_folder)
 
-    def _load_ontology(self, save_reasoned_ontology):
-        self._logger.info("Loading ontology...")
+    def _load_ontology(self):
+        self._logger.info("Loading and reasoning over ontology...")
+        ontology_folder = os.path.dirname(os.path.abspath(__file__)) + '/resources/'
+        self.reason('file:' + ontology_folder)  # Reason over ontology using the subconcept reasoner
         io_helper = self._gateway.jvm.org.obolibrary.robot.IOHelper()
-        ontology = io_helper.loadOntology(os.path.dirname(os.path.abspath(__file__)) + '/resources/ccf.owl')
-        self._logger.info("...loaded HuBMAP ontology v" + self._get_ontology_version(ontology))
-        self._logger.info("Reasoning over ontology...")
-        reasoner_factory = self._gateway.jvm.org.semanticweb.elk.owlapi.ElkReasonerFactory()
-        reason_operation = self._gateway.jvm.org.obolibrary.robot.ReasonOperation()
-        reasoner_options = self._gateway.jvm.java.util.HashMap()
-        reasoner_options.put("axiom-generators", "SubClass ClassAssertion PropertyAssertion")
-        reason_operation.reason(ontology, reasoner_factory, reasoner_options)
-        self._logger.info("...done")
-        if save_reasoned_ontology:
-            iri = self._gateway.jvm.org.semanticweb.owlapi.model.IRI
-            reasoned_ontology_iri = iri.create("file:" + self._output_folder + "/ccf_reasoned.owl")
-            ontology.getOWLOntologyManager().saveOntology(ontology, reasoned_ontology_iri)
+        ontology = io_helper.loadOntology(ontology_folder + 'ccf-reasoned.owl')  # Load reasoned ontology for ROBOT
+        self._logger.info("...done: HuBMAP ontology v" + self._get_ontology_version(ontology))
         return ontology
+
+    def reason(self, ontology_folder):
+        reasoner_gateway = JavaGateway().launch_gateway(
+            jarpath=os.path.dirname(os.path.abspath(__file__)) + '/resources/smoor-reasoner.jar',
+            classpath='edu.harvard.hms.ccb.reasoner.ontology.smoor.PythonGateway',
+            port=25334,
+            die_on_exit=True)
+        reasoner = reasoner_gateway.jvm.edu.harvard.hms.ccb.reasoner.ontology.smoor.SmoorReasoner()
+        results = reasoner.loadOntologyAndReason(ontology_folder + 'ccf.owl', 'elk', True, False)
+        reasoned_ontology = results.getOntology()
+        iri = reasoner_gateway.jvm.org.semanticweb.owlapi.model.IRI
+        reasoned_ontology_iri = iri.create(ontology_folder + 'ccf-reasoned.owl')
+        reasoned_ontology.getOWLOntologyManager().saveOntology(reasoned_ontology, reasoned_ontology_iri)
 
     def _get_ontology_version(self, ontology):
         ontology_version = ''
@@ -73,12 +77,14 @@ class HuBMAPy:
         df
             Data frame containing the query results
         """
-        self._logger.debug("Executing query:\n" + query + "\n")
+        self._logger.info("Executing query '" + query_name + "'...")
+        self._logger.debug(" Query:\n" + query + "\n")
         timestamp = datetime.datetime.now().strftime("%d-%m-%YT%H-%M-%S")
         query_results_file_name = self._output_folder + "/" + query_name + "-" + timestamp + ".csv"
         query_results_file = self._gateway.jvm.java.io.File(query_results_file_name)
         output_format = self._gateway.jvm.org.apache.jena.riot.Lang.CSV
         self._query_operation.runQuery(self._dataset, query, query_results_file, output_format)
+        self._logger.info("...done")
         return pd.read_csv(query_results_file_name)
 
     def do_query_from_file(self, query_file_path, query_name='user_query'):
