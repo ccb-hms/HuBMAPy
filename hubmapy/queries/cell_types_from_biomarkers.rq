@@ -15,9 +15,11 @@ SELECT DISTINCT ?ct ?ct_label ?as ?as_label WHERE {
       ?list rdf:rest*/rdf:first/owl:someValuesFrom ?marker .
       FILTER ( ?marker IN ( ?biomarkers ) )
     } .
-    ?ct rdfs:label ?ct_label ;
-        ccf:ccf_located_in ?as.
-    ?as rdfs:label ?as_label .
+    ?ct rdfs:label ?ct_label .
+    OPTIONAL {
+        ?ct ccf:ccf_located_in ?as.
+        ?as rdfs:label ?as_label .
+    }
 }
 GROUP BY ?ct ?ct_label ?as ?as_label
 ORDER BY ?ct_label
