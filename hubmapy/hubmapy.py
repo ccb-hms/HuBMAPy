@@ -28,7 +28,7 @@ class HuBMAPy:
     def _load_ontology(self):
         self._logger.info("Loading and reasoning over ontology...")
         ontology_folder = os.path.dirname(os.path.abspath(__file__)) + '/resources/'
-        self.reason('file:' + ontology_folder)  # Reason over ontology using the subconcept reasoner
+        self.reason('file:' + ontology_folder)  # Reason over ontology using the smores reasoner
         io_helper = self._gateway.jvm.org.obolibrary.robot.IOHelper()
         ontology = io_helper.loadOntology(ontology_folder + 'ccf-reasoned.owl')  # Load reasoned ontology for ROBOT
         self._logger.info("...done: HuBMAP ontology v" + self._get_ontology_version(ontology))
@@ -36,11 +36,11 @@ class HuBMAPy:
 
     def reason(self, ontology_folder):
         reasoner_gateway = JavaGateway().launch_gateway(
-            jarpath=os.path.dirname(os.path.abspath(__file__)) + '/resources/smoor-reasoner.jar',
-            classpath='edu.harvard.hms.ccb.reasoner.ontology.smoor.PythonGateway',
+            jarpath=os.path.dirname(os.path.abspath(__file__)) + '/resources/smores.jar',
+            classpath='edu.harvard.hms.ccb.reasoner.ontology.smores.PythonGateway',
             port=25334,
             die_on_exit=True)
-        reasoner = reasoner_gateway.jvm.edu.harvard.hms.ccb.reasoner.ontology.smoor.SmoorReasoner()
+        reasoner = reasoner_gateway.jvm.edu.harvard.hms.ccb.reasoner.ontology.smores.Smores()
         results = reasoner.loadOntologyAndReason(ontology_folder + 'ccf.owl', 'elk', True, False)
         reasoned_ontology = results.getOntology()
         iri = reasoner_gateway.jvm.org.semanticweb.owlapi.model.IRI
