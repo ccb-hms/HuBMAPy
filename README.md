@@ -12,7 +12,7 @@ pip3 install .
 
 ## Command Line Interface
 
-`hubmapy -q QUERY [-o OUTPUT] [-n NAME] [-r]`
+`hubmapy -q QUERY [-o OUTPUT] [-n NAME]`
 
 To display a help message with descriptions of tool arguments do:
 
@@ -26,8 +26,6 @@ To display a help message with descriptions of tool arguments do:
 `-o OUTPUT` Path to output folder for the query results files.
 
 `-n NAME`   Name of the query, to be included in the generated query results file.
-
-`-r SAVE_REASONED_ONTOLOGY`   Save the ontology with its inferred axioms after reasoning.
 
 ## Programmatic Usage
 
@@ -51,12 +49,18 @@ df = hubmap.biomarkers_for_all_cell_types()
 
 where `df` is a data frame containing the query results.
 
-Additionally, it is possible to perform user-specified queries as follows:
+Additionally, it is possible to perform arbitrary queries specified by users:
 ```
-df = hubmap.do_user_query(query_file_path='...')
+df = hubmap.do_query_from_file(query_file_path='...')
 ```
 
-where `query_file_path` is an absolute path to a SPARQL query file.
+where `query_file_path` is an absolute path to a SPARQL query file. Or:
+
+```
+df = hubmap.do_query(query='...', query_name='...')
+```
+where `query` is a string containing a SPARQL query.
+
 
 ## Built-in Queries
 
@@ -71,6 +75,7 @@ The package supports the following built-in queries:
 * locations_of_all_cell_types()
 * evidence_for_specific_cell_type(**cell_type**=`obo:CL_0002394`)  # i.e., publication DOIs
 * evidence_for_all_cell_types()
+* cell_types_from_biomarkers(**biomarkers**=`[hgnc:633,hgnc:800]`)
 
 ## Dependencies
 
