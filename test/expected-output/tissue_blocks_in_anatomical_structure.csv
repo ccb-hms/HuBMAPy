@@ -1,0 +1,12 @@
+tissue_block,donor,donor_sex
+https://entity.api.hubmapconsortium.org/entities/173fbebb10c3af766e26b1d6c9c8d563,https://entity.api.hubmapconsortium.org/entities/4397fcd072ac96299992b47da1dbae64,male
+https://entity.api.hubmapconsortium.org/entities/27bf04501f9e6142e0f4e777c7493ff4,https://entity.api.hubmapconsortium.org/entities/14aa5da0100e072b560ae411c9b8de06,female
+https://entity.api.hubmapconsortium.org/entities/46f5c8d7dc8d545c540748347d20a9b7,https://entity.api.hubmapconsortium.org/entities/4397fcd072ac96299992b47da1dbae64,male
+https://entity.api.hubmapconsortium.org/entities/5d53bd5a71569c59c90d1608cd3da5c9,https://entity.api.hubmapconsortium.org/entities/4397fcd072ac96299992b47da1dbae64,male
+https://entity.api.hubmapconsortium.org/entities/6e5e5be224d88f38aa390d0c389839c7,https://entity.api.hubmapconsortium.org/entities/4397fcd072ac96299992b47da1dbae64,male
+https://entity.api.hubmapconsortium.org/entities/aff08197f187418318e12cd70c9a6e3d,https://entity.api.hubmapconsortium.org/entities/4397fcd072ac96299992b47da1dbae64,male
+https://entity.api.hubmapconsortium.org/entities/bb2f22ab105c49476def20e47e9c1206,https://entity.api.hubmapconsortium.org/entities/4397fcd072ac96299992b47da1dbae64,male
+https://entity.api.hubmapconsortium.org/entities/cfb75894a2611aeee77bb45760f2a4d2,https://entity.api.hubmapconsortium.org/entities/79669218b9f27e3aa196b84c532d60d3,male
+https://entity.api.hubmapconsortium.org/entities/fed53eab5847287de706a8dafa6faf8f,https://entity.api.hubmapconsortium.org/entities/4397fcd072ac96299992b47da1dbae64,male
+https://gtexportal.org/home/tissue/Lung#FTissueBlocks,https://gtexportal.org/home/tissue/Lung#FDonors,female
+https://gtexportal.org/home/tissue/Lung#MTissueBlocks,https://gtexportal.org/home/tissue/Lung#MDonors,male

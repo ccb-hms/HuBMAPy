@@ -28,13 +28,13 @@ class HuBMAPy:
     def _load_ontology(self):
         self._logger.info("Loading and reasoning over ontology...")
         ontology_folder = os.path.dirname(os.path.abspath(__file__)) + '/resources/'
-        self.reason('file:' + ontology_folder)  # Reason over ontology using the smores reasoner
+        self._reason('file:' + ontology_folder)  # Reason over ontology using the smores reasoner
         io_helper = self._gateway.jvm.org.obolibrary.robot.IOHelper()
         ontology = io_helper.loadOntology(ontology_folder + 'ccf-reasoned.owl')  # Load reasoned ontology for ROBOT
         self._logger.info("...done: HuBMAP ontology v" + self._get_ontology_version(ontology))
         return ontology
 
-    def reason(self, ontology_folder):
+    def _reason(self, ontology_folder):
         reasoner_gateway = JavaGateway().launch_gateway(
             jarpath=os.path.dirname(os.path.abspath(__file__)) + '/resources/smores.jar',
             classpath='edu.harvard.hms.ccb.reasoner.ontology.smores.PythonGateway',
@@ -79,8 +79,7 @@ class HuBMAPy:
         """
         self._logger.info("Executing query '" + query_name + "'...")
         self._logger.debug(" Query:\n" + query + "\n")
-        timestamp = datetime.datetime.now().strftime("%d-%m-%YT%H-%M-%S")
-        query_results_file_name = self._output_folder + "/" + query_name + "-" + timestamp + ".csv"
+        query_results_file_name = self._output_folder + "/" + query_name + ".csv"
         query_results_file = self._gateway.jvm.java.io.File(query_results_file_name)
         output_format = self._gateway.jvm.org.apache.jena.riot.Lang.CSV
         self._query_operation.runQuery(self._dataset, query, query_results_file, output_format)

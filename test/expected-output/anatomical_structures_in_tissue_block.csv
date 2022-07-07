@@ -1,0 +1,9 @@
+as,as_lbl,donor,donor_sex
+http://purl.org/sig/ont/fma/fma7385,Left apical bronchopulmonary segment,https://gtexportal.org/home/tissue/Lung#MDonors,male
+http://purl.org/sig/ont/fma/fma7426,Left apical segmental bronchus,https://gtexportal.org/home/tissue/Lung#MDonors,male
+http://purl.org/sig/ont/fma/fma7386,Left posterior bronchopulmonary segment,https://gtexportal.org/home/tissue/Lung#MDonors,male
+http://purl.obolibrary.org/obo/UBERON_0013702,body proper,https://gtexportal.org/home/tissue/Lung#MDonors,male
+http://purl.obolibrary.org/obo/UBERON_0002168,left lung,https://gtexportal.org/home/tissue/Lung#MDonors,male
+http://purl.obolibrary.org/obo/UBERON_0002048,lung,https://gtexportal.org/home/tissue/Lung#MDonors,male
+http://purl.obolibrary.org/obo/UBERON_0001004,respiratory system,https://gtexportal.org/home/tissue/Lung#MDonors,male
+http://purl.obolibrary.org/obo/UBERON_0008952,upper lobe of left lung,https://gtexportal.org/home/tissue/Lung#MDonors,male
