@@ -1,491 +1,491 @@
-ct_lbl,ct,doi
-B cell,http://purl.obolibrary.org/obo/CL_0000236,http://doi.org/10.1038/s41573-020-00092-2
-B cell,http://purl.obolibrary.org/obo/CL_0000236,http://doi.org/10.1038/s41467-019-10861-2
-B cell,http://purl.obolibrary.org/obo/CL_0000236,http://doi.org/10.1038/s41586-020-2941-1
-B cell,http://purl.obolibrary.org/obo/CL_0000236,http://doi.org/10.1126/science.aat5031
-B cell,http://purl.obolibrary.org/obo/CL_0000236,http://doi.org/10.1172/jci.insight.133267
-CD141-positive myeloid dendritic cell,http://purl.obolibrary.org/obo/CL_0002394,http://doi.org/10.1016/S0002-9440(10)61694-X
-CD141-positive myeloid dendritic cell,http://purl.obolibrary.org/obo/CL_0002394,http://doi.org/10.1016/j.immuni.2017.02.019
-CD1c-positive myeloid dendritic cell,http://purl.obolibrary.org/obo/CL_0002399,http://doi.org/10.1002/cyto.a.23724
-CD1c-positive myeloid dendritic cell,http://purl.obolibrary.org/obo/CL_0002399,http://doi.org/10.1016/S0002-9440(10)61694-X
-CD1c-positive myeloid dendritic cell,http://purl.obolibrary.org/obo/CL_0002399,http://doi.org/10.1016/j.immuni.2017.02.019
-CD1c-positive myeloid dendritic cell,http://purl.obolibrary.org/obo/CL_0002399,http://doi.org/10.1038/s41423-020-0511-y
-"CD4-negative, CD8-negative, alpha-beta intraepithelial T cell",http://purl.obolibrary.org/obo/CL_0000935,http://doi.org/10.1093/intimm/7.9.1473
-"CD4-positive, alpha-beta cytotoxic T cell",http://purl.obolibrary.org/obo/CL_0000934,http://doi.org/10.1126/science.aay3224
-"CD4-positive, alpha-beta intraepithelial T cell",http://purl.obolibrary.org/obo/CL_0000793,http://doi.org/10.1093/intimm/7.9.1473
-"CD4-positive, alpha-beta memory T cell",http://purl.obolibrary.org/obo/CL_0000897,http://doi.org/10.1126/science.aay3224
-"CD4-positive, alpha-beta memory T cell",http://purl.obolibrary.org/obo/CL_0000897,http://doi.org/10.4049/jimmunol.1701025
-"CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell",http://purl.obolibrary.org/obo/CL_0000915,http://doi.org/10.1093/intimm/7.9.1473
-"CD8-alpha-beta-positive, alpha-beta intraepithelial T cell",http://purl.obolibrary.org/obo/CL_0000796,http://doi.org/10.1093/intimm/7.9.1473
-"CD8-positive, alpha-beta memory T cell",http://purl.obolibrary.org/obo/CL_0000909,http://doi.org/10.1126/science.aay3224
-"CD8-positive, alpha-beta memory T cell",http://purl.obolibrary.org/obo/CL_0000909,http://doi.org/10.1002/cyto.a.20643
-CD8alpha-negative thymic conventional dendritic cell,http://purl.obolibrary.org/obo/CL_0002460,http://doi.org/10.1038/cti.2015.21
-CD8alpha-negative thymic conventional dendritic cell,http://purl.obolibrary.org/obo/CL_0002460,http://doi.org/10.1126/science.aay3224
-CD8alpha-negative thymic conventional dendritic cell,http://purl.obolibrary.org/obo/CL_0002460,http://doi.org/10.1172/JCI11734
-CD8alpha-positive thymic conventional dendritic cell,http://purl.obolibrary.org/obo/CL_0002059,http://doi.org/10.1038/cti.2015.21
-CD8alpha-positive thymic conventional dendritic cell,http://purl.obolibrary.org/obo/CL_0002059,http://doi.org/10.1126/science.aay3224
-CD8alpha-positive thymic conventional dendritic cell,http://purl.obolibrary.org/obo/CL_0002059,http://doi.org/10.1172/JCI11734
-Kupffer cell,http://purl.obolibrary.org/obo/CL_0000091,http://doi.org/10.1016/j.jhep.2010.04.037
-Merkel cell,http://purl.obolibrary.org/obo/CL_0000242,http://doi.org/10.1083/jcb.200603161
-Merkel cell,http://purl.obolibrary.org/obo/CL_0000242,http://doi.org/10.1111/1523-1747.ep12319788
-Merkel cell,http://purl.obolibrary.org/obo/CL_0000242,http://doi.org/10.1111/1523-1747.ep12606183
-Merkel cell,http://purl.obolibrary.org/obo/CL_0000242,http://doi.org/10.4103/0973-029X.125208
-ON-bipolar cell,http://purl.obolibrary.org/obo/CL_0000749,http://doi.org/10.1016/j.ophtha.2017.09.016
-Schwann cell,http://purl.obolibrary.org/obo/CL_0002573,http://doi.org/10.1016/S0065-1281(97)80024-4
-Schwann cell,http://purl.obolibrary.org/obo/CL_0002573,http://doi.org/10.1093/brain/awm199
-Schwann cell,http://purl.obolibrary.org/obo/CL_0002573,http://doi.org/10.1111/j.1365-4362.1984.tb05661.x
-Schwann cell,http://purl.obolibrary.org/obo/CL_0002573,http://doi.org/10.1111/wrr.12647
-Schwann cell,http://purl.obolibrary.org/obo/CL_0002573,http://doi.org/10.1093/brain/awm199
-Schwann cell,http://purl.obolibrary.org/obo/CL_0002573,http://doi.org/10.1111/j.1365-4362.1984.tb05661.x
-Schwann cell,http://purl.obolibrary.org/obo/CL_0002573,http://doi.org/10.1111/wrr.12647
-Schwann cell,http://purl.obolibrary.org/obo/CL_0002573,http://doi.org/10.1007/978-1-4939-0897-4_3
-Schwann cell,http://purl.obolibrary.org/obo/CL_0002573,http://doi.org/10.1034/j.1600-065x.2003.00072.x
-Schwann cell,http://purl.obolibrary.org/obo/CL_0002573,http://doi.org/10.1111/j.1440-1827.1989.tb02421.x
-T cell,http://purl.obolibrary.org/obo/CL_0000084,http://doi.org/10.1038/s41467-019-10861-2
-T cell,http://purl.obolibrary.org/obo/CL_0000084,http://doi.org/10.1038/s41586-020-2941-1
-T cell,http://purl.obolibrary.org/obo/CL_0000084,http://doi.org/10.1126/science.aat5031
-T cell,http://purl.obolibrary.org/obo/CL_0000084,http://doi.org/10.1172/jci.insight.133267
-T follicular helper cell,http://purl.obolibrary.org/obo/CL_0002038,http://doi.org/10.1016/j.immuni.2013.08.031
-T follicular helper cell,http://purl.obolibrary.org/obo/CL_0002038,http://doi.org/10.1097/01.pas.0000209855.28282.ce
-T follicular helper cell,http://purl.obolibrary.org/obo/CL_0002038,http://doi.org/10.1126/science.aay3224
-T-helper 1 cell,http://purl.obolibrary.org/obo/CL_0000545,http://doi.org/10.4049/jimmunol.1701025
-T-helper 17 cell,http://purl.obolibrary.org/obo/CL_0000899,http://doi.org/10.4049/jimmunol.1701025
-T-helper 17 cell,http://purl.obolibrary.org/obo/CL_0000899,http://doi.org/10.1084/jem.20080397
-T-helper 17 cell,http://purl.obolibrary.org/obo/CL_0000899,http://doi.org/10.1126/science.aay3224
-T-helper 2 cell,http://purl.obolibrary.org/obo/CL_0000546,http://doi.org/10.4049/jimmunol.1701025
-afferent neuron,http://purl.obolibrary.org/obo/CL_0000526,http://doi.org/10.3748/wjg.v12.i22.3523
-alveolar macrophage,http://purl.obolibrary.org/obo/CL_0000583,http://doi.org/10.1016/j.cellimm.2018.01.005
-amacrine cell,http://purl.obolibrary.org/obo/CL_0000561,http://doi.org/10.1002/cne.23821
-amacrine cell,http://purl.obolibrary.org/obo/CL_0000561,http://doi.org/10.1016/j.cell.2019.01.004
-amacrine cell,http://purl.obolibrary.org/obo/CL_0000561,http://doi.org/10.1016/j.preteyeres.2020.100844
-basal cell,http://purl.obolibrary.org/obo/CL_0000646,http://doi.org/10.1038/nrm3175
-basal cell,http://purl.obolibrary.org/obo/CL_0000646,http://doi.org/10.1083/jcb.200603161
-basal cell of prostate epithelium,http://purl.obolibrary.org/obo/CL_0002341,http://doi.org/10.1002/path.5751
-beige adipocyte,http://purl.obolibrary.org/obo/CL_0001070,http://doi.org/10.1007/s11357-013-9564-5
-beige adipocyte,http://purl.obolibrary.org/obo/CL_0001070,http://doi.org/10.3389/fendo.2019.00369
-blood vessel endothelial cell,http://purl.obolibrary.org/obo/CL_0000071,http://doi.org/10.1080/01926230600865549
-blood vessel endothelial cell,http://purl.obolibrary.org/obo/CL_0000071,http://doi.org/10.1126/science.aay3224
-blood vessel endothelial cell,http://purl.obolibrary.org/obo/CL_0000071,http://doi.org/10.1038/nri3298 (2012).
-blood vessel endothelial cell,http://purl.obolibrary.org/obo/CL_0000071,http://doi.org/10.1007/s00441-008-0706-5
-blood vessel endothelial cell,http://purl.obolibrary.org/obo/CL_0000071,http://doi.org/10.1369/jhc.4A6514.2005
-blood vessel endothelial cell,http://purl.obolibrary.org/obo/CL_0000071,http://doi.org/10.1371/journal.pone.0094781
-capillary endothelial cell,http://purl.obolibrary.org/obo/CL_0002144,http://doi.org/10.1034/j.1600-065x.2003.00072.x
-capillary endothelial cell,http://purl.obolibrary.org/obo/CL_0002144,http://doi.org/10.1111/j.1440-1827.1989.tb02421.x
-centrilobular region hepatocyte,http://purl.obolibrary.org/obo/CL_0019029,http://doi.org/10.1038/nature14863
-centrilobular region hepatocyte,http://purl.obolibrary.org/obo/CL_0019029,http://doi.org/10.1038/ncb3337
-centrilobular region hepatocyte,http://purl.obolibrary.org/obo/CL_0019029,http://doi.org/10.1053/j.gastro.2009.02.063
-class switched memory B cell,http://purl.obolibrary.org/obo/CL_0000972,http://doi.org/10.1080/01926230600865549
-class switched memory B cell,http://purl.obolibrary.org/obo/CL_0000972,http://doi.org/10.1126/science.aay3224
-class switched memory B cell,http://purl.obolibrary.org/obo/CL_0000972,http://doi.org/10.1126/sciimmunol.aah4447
-columnar/cuboidal epithelial cell,http://purl.obolibrary.org/obo/CL_0000075,http://doi.org/10.3748/wjg.v12.i22.3523
-common myeloid progenitor,http://purl.obolibrary.org/obo/CL_0000049,http://doi.org/10.1038/ni.1889
-connective tissue type mast cell,http://purl.obolibrary.org/obo/CL_0000484,http://doi.org/10.1007/s12016-020-08779-5
-conventional dendritic cell,http://purl.obolibrary.org/obo/CL_0000990,http://doi.org/10.3109/10428194.2013.781167
-conventional dendritic cell,http://purl.obolibrary.org/obo/CL_0000990,http://doi.org/10.1016/j.immuni.2017.04.019
-conventional dendritic cell,http://purl.obolibrary.org/obo/CL_0000990,http://doi.org/10.1084/jem.20030323
-conventional dendritic cell,http://purl.obolibrary.org/obo/CL_0000990,http://doi.org/10.1101/2021.07.28.454201
-conventional dendritic cell,http://purl.obolibrary.org/obo/CL_0000990,http://doi.org/10.1126/science.aat5031
-corneal endothelial cell,http://purl.obolibrary.org/obo/CL_0000132,http://doi.org/10.1038/srep29047
-corneal epithelial cell,http://purl.obolibrary.org/obo/CL_0000575,http://doi.org/10.1634/stemcell.22-3-355
-cortical thymic epithelial cell,http://purl.obolibrary.org/obo/CL_0002364,http://doi.org/10.1126/science.aay3224
-cortical thymic epithelial cell,http://purl.obolibrary.org/obo/CL_0002364,http://doi.org/10.1182/blood-2008-11-187633.
-cortical thymic epithelial cell,http://purl.obolibrary.org/obo/CL_0002364,http://doi.org/10.3791/50951
-cytotoxic T cell,http://purl.obolibrary.org/obo/CL_0000910,http://doi.org/10.1038/s41467-019-10861-2
-cytotoxic T cell,http://purl.obolibrary.org/obo/CL_0000910,http://doi.org/10.1172/jci.insight.133267
-cytotoxic T cell,http://purl.obolibrary.org/obo/CL_0000910,http://doi.org/10.1002/cyto.a.20643
-dendritic cell,http://purl.obolibrary.org/obo/CL_0000451,http://doi.org/10.1016/S0002-9440(10)61694-X
-dendritic cell,http://purl.obolibrary.org/obo/CL_0000451,http://doi.org/10.1053/j.semdp.2017.11.002
-dendritic cell,http://purl.obolibrary.org/obo/CL_0000451,http://doi.org/10.1016/S0002-9440(10)61694-X
-dendritic cell,http://purl.obolibrary.org/obo/CL_0000451,http://doi.org/10.1053/j.semdp.2017.11.002
-dendritic cell,http://purl.obolibrary.org/obo/CL_0000451,http://doi.org/10.1007/978-1-4939-0897-4_3
-dendritic cell,http://purl.obolibrary.org/obo/CL_0000451,http://doi.org/10.1016/j.immuni.2020.02.001
-"dendritic cell, human",http://purl.obolibrary.org/obo/CL_0001056,http://doi.org/10.1002/cyto.a.23724
-"dendritic cell, human",http://purl.obolibrary.org/obo/CL_0001056,http://doi.org/10.1038/s41467-019-10861-2
-"dendritic cell, human",http://purl.obolibrary.org/obo/CL_0001056,http://doi.org/10.1038/s41586-020-2941-1
-"dendritic cell, human",http://purl.obolibrary.org/obo/CL_0001056,http://doi.org/10.1126/science.aat5031
-"dendritic cell, human",http://purl.obolibrary.org/obo/CL_0001056,http://doi.org/10.1111/imm.12888
-"double-positive, alpha-beta thymocyte",http://purl.obolibrary.org/obo/CL_0000809,http://doi.org/10.1126/science.aay3224
-"double-positive, alpha-beta thymocyte",http://purl.obolibrary.org/obo/CL_0000809,http://doi.org/10.3389/fimmu.2019.00447.
-early T lineage precursor,http://purl.obolibrary.org/obo/CL_0002425,http://doi.org/10.1016/j.immuni.2020.03.019
-early T lineage precursor,http://purl.obolibrary.org/obo/CL_0002425,http://doi.org/10.3389/fimmu.2019.00447.
-endocrine-paracrine cell of prostate gland,http://purl.obolibrary.org/obo/CL_0002313,http://doi.org/10.1002/path.5751
-endothelial cell,http://purl.obolibrary.org/obo/CL_0000115,http://doi.org/10.1038/s41467-019-10861-2
-endothelial cell,http://purl.obolibrary.org/obo/CL_0000115,http://doi.org/10.1172/jci.insight.133267
-endothelial cell,http://purl.obolibrary.org/obo/CL_0000115,http://doi.org/10.1016/j.vph.2016.05.003
-endothelial cell,http://purl.obolibrary.org/obo/CL_0000115,http://doi.org/10.1111/1523-1747.ep12512516
-endothelial cell,http://purl.obolibrary.org/obo/CL_0000115,http://doi.org/10.1152/ajpcell.00524.2001
-endothelial cell of arteriole,http://purl.obolibrary.org/obo/CL_1000412,http://doi.org/10.1007/978-1-4939-0897-4_3
-endothelial cell of hepatic sinusoid,http://purl.obolibrary.org/obo/CL_1000398,http://doi.org/10.3748/wjg.v12.i34.5429
-endothelial cell of high endothelial venule,http://purl.obolibrary.org/obo/CL_0002652,http://doi.org/10.1007/978-1-4939-0897-4_3
-endothelial cell of high endothelial venule,http://purl.obolibrary.org/obo/CL_0002652,http://doi.org/10.1016/j.immuni.2020.02.001
-endothelial cell of lymphatic vessel,http://purl.obolibrary.org/obo/CL_0002138,http://doi.org/10.1080/01926230600865549
-endothelial cell of lymphatic vessel,http://purl.obolibrary.org/obo/CL_0002138,http://doi.org/10.1126/science.aay3224
-endothelial cell of lymphatic vessel,http://purl.obolibrary.org/obo/CL_0002138,http://doi.org/10.1038/s41467-019-10861-2
-endothelial cell of lymphatic vessel,http://purl.obolibrary.org/obo/CL_0002138,http://doi.org/10.1038/s41467-019-12872-5
-endothelial cell of lymphatic vessel,http://purl.obolibrary.org/obo/CL_0002138,http://doi.org/10.1038/s41586-020-2941-1
-endothelial cell of lymphatic vessel,http://purl.obolibrary.org/obo/CL_0002138,http://doi.org/10.1172/jci.insight.133267
-endothelial cell of lymphatic vessel,http://purl.obolibrary.org/obo/CL_0002138,http://doi.org/10.1016/j.immuni.2019.06.027
-endothelial cell of lymphatic vessel,http://purl.obolibrary.org/obo/CL_0002138,http://doi.org/10.3389/fcvm.2020.00052
-endothelial cell of lymphatic vessel,http://purl.obolibrary.org/obo/CL_0002138,http://doi.org/10.1016/j.immuni.2019.06.027
-endothelial cell of lymphatic vessel,http://purl.obolibrary.org/obo/CL_0002138,http://doi.org/10.3389/fcvm.2020.00052
-endothelial cell of lymphatic vessel,http://purl.obolibrary.org/obo/CL_0002138,http://doi.org/10.1007/978-1-4939-0897-4_3
-endothelial cell of venule,http://purl.obolibrary.org/obo/CL_1000414,http://doi.org/10.1007/978-1-4939-0897-4_3
-enterocyte of epithelium of large intestine,http://purl.obolibrary.org/obo/CL_0002071,http://doi.org/10.1038/s42003-020-01181-z
-eosinophil,http://purl.obolibrary.org/obo/CL_0000771,http://doi.org/10.1097/00000478-199003000-00010
-eosinophil,http://purl.obolibrary.org/obo/CL_0000771,http://doi.org/10.1111/j.1440-1827.1995.tb03518.x
-eosinophil,http://purl.obolibrary.org/obo/CL_0000771,http://doi.org/10.2353/ajpath.2009.090015
-eosinophil,http://purl.obolibrary.org/obo/CL_0000771,http://doi.org/10.1097/00000478-199003000-00010
-eosinophil,http://purl.obolibrary.org/obo/CL_0000771,http://doi.org/10.1111/j.1440-1827.1995.tb03518.x.
-eosinophil,http://purl.obolibrary.org/obo/CL_0000771,http://doi.org/10.2353/ajpath.2009.090015
-eosinophil,http://purl.obolibrary.org/obo/CL_0000771,http://doi.org/10.1016/j.jaip.2018.06.002
-epidermal Langerhans cell,http://purl.obolibrary.org/obo/CL_0002457,http://doi.org/10.1016/S0171-2985(84)80117-5
-epidermal Langerhans cell,http://purl.obolibrary.org/obo/CL_0002457,http://doi.org/10.1016/s1074-7613(00)80160-0
-epidermal Langerhans cell,http://purl.obolibrary.org/obo/CL_0002457,http://doi.org/10.1111/1523-1747.ep12712175
-epithelial cell,http://purl.obolibrary.org/obo/CL_0000066,http://doi.org/10.3390/cell7110210
-epithelial cell of proximal tubule,http://purl.obolibrary.org/obo/CL_0002306,http://doi.org/10.1038/s41467-019-10861-2
-epithelial cell of proximal tubule,http://purl.obolibrary.org/obo/CL_0002306,http://doi.org/10.1038/s41586-020-2941-1
-epithelial cell of proximal tubule,http://purl.obolibrary.org/obo/CL_0002306,http://doi.org/10.1073/pnas.2005477117
-epithelial cell of proximal tubule,http://purl.obolibrary.org/obo/CL_0002306,http://doi.org/10.1172/jci.insight.133267
-epithelial cell of proximal tubule,http://purl.obolibrary.org/obo/CL_0002306,http://doi.org/10.1681/ASN.2020010071
-erythroid lineage cell,http://purl.obolibrary.org/obo/CL_0000764,http://doi.org/10.1126/science.aay3224
-erythroid lineage cell,http://purl.obolibrary.org/obo/CL_0000764,http://doi.org/10.1371/journal.pone.0162209
-fibroblast,http://purl.obolibrary.org/obo/CL_0000057,http://doi.org/10.1007/978-1-4939-0897-4_3
-fibroblast,http://purl.obolibrary.org/obo/CL_0000057,http://doi.org/10.1034/j.1600-065x.2003.00072.x
-fibroblast,http://purl.obolibrary.org/obo/CL_0000057,http://doi.org/10.1111/j.1440-1827.1989.tb02421.x
-follicular dendritic cell,http://purl.obolibrary.org/obo/CL_0000442,http://doi.org/10.1016/j.ajpath.2010.12.039
-follicular dendritic cell,http://purl.obolibrary.org/obo/CL_0000442,http://doi.org/10.1016/j.smim.2007.12.001
-follicular dendritic cell,http://purl.obolibrary.org/obo/CL_0000442,http://doi.org/10.1097/PAI.0b013e318183a8e2
-gamma-delta T cell,http://purl.obolibrary.org/obo/CL_0000798,http://doi.org/10.1126/science.aay3224
-gamma-delta T cell,http://purl.obolibrary.org/obo/CL_0000798,http://doi.org/10.4049/jimmunol.1303119
-gamma-delta T cell,http://purl.obolibrary.org/obo/CL_0000798,http://doi.org/10.1002/cti2.1079
-glomerular capillary endothelial cell,http://purl.obolibrary.org/obo/CL_1001005,http://doi.org/10.1038/s41467-019-10861-2
-glomerular capillary endothelial cell,http://purl.obolibrary.org/obo/CL_1001005,http://doi.org/10.1038/s41467-019-12872-5
-glomerular capillary endothelial cell,http://purl.obolibrary.org/obo/CL_1001005,http://doi.org/10.1038/s41586-020-2941-1
-glomerular capillary endothelial cell,http://purl.obolibrary.org/obo/CL_1001005,http://doi.org/10.1172/jci.insight.133267
-glomerular mesangial cell,http://purl.obolibrary.org/obo/CL_1000742,http://doi.org/10.1038/s41467-019-10861-2
-glomerular mesangial cell,http://purl.obolibrary.org/obo/CL_1000742,http://doi.org/10.1038/s41586-020-2941-1
-glomerular mesangial cell,http://purl.obolibrary.org/obo/CL_1000742,http://doi.org/10.1073/pnas.2005477117
-glomerular mesangial cell,http://purl.obolibrary.org/obo/CL_1000742,http://doi.org/10.1172/jci.insight.133267
-glomerular mesangial cell,http://purl.obolibrary.org/obo/CL_1000742,http://doi.org/10.1681/ASN.2020010071
-glomerular visceral epithelial cell,http://purl.obolibrary.org/obo/CL_0000653,http://doi.org/10.1038/s41467-019-10861-2
-glomerular visceral epithelial cell,http://purl.obolibrary.org/obo/CL_0000653,http://doi.org/10.1038/s41586-020-2941-1
-glomerular visceral epithelial cell,http://purl.obolibrary.org/obo/CL_0000653,http://doi.org/10.1073/pnas.2005477117
-glomerular visceral epithelial cell,http://purl.obolibrary.org/obo/CL_0000653,http://doi.org/10.1172/jci.insight.133267
-group 1 innate lymphoid cell,http://purl.obolibrary.org/obo/CL_0001067,http://doi.org/10.1126/science.aaa6566
-group 2 innate lymphoid cell,http://purl.obolibrary.org/obo/CL_0001069,http://doi.org/10.1038/ni.2584
-group 2 innate lymphoid cell,http://purl.obolibrary.org/obo/CL_0001069,http://doi.org/10.1126/science.aaa6566
-group 3 innate lymphoid cell,http://purl.obolibrary.org/obo/CL_0001071,http://doi.org/10.1038/ncomms11394
-group 3 innate lymphoid cell,http://purl.obolibrary.org/obo/CL_0001071,http://doi.org/10.1126/science.aaa6566
-"group 3 innate lymphoid cell, human",http://purl.obolibrary.org/obo/CL_0001078,http://doi.org/10.1126/science.aay3224
-"group 3 innate lymphoid cell, human",http://purl.obolibrary.org/obo/CL_0001078,http://doi.org/10.3389/fimmu.2017.01047
-hepatic stellate cell,http://purl.obolibrary.org/obo/CL_0000632,http://doi.org/10.1002/hep.1840040425
-hepatic stellate cell,http://purl.obolibrary.org/obo/CL_0000632,http://doi.org/10.1038/nm.3282
-hepatic stellate cell,http://purl.obolibrary.org/obo/CL_0000632,http://doi.org/10.1136/gut.2005.078865
-hepatocyte,http://purl.obolibrary.org/obo/CL_0000182,http://doi.org/10.1007/s00424-006-0152-8
-hepatocyte,http://purl.obolibrary.org/obo/CL_0000182,http://doi.org/10.1097/00000478-200110000-00011
-hilus cell of ovary,http://purl.obolibrary.org/obo/CL_0002095,http://doi.org/10.1097/00000478-199805000-00011
-immature B cell,http://purl.obolibrary.org/obo/CL_0000816,http://doi.org/10.3389/fimmu.2012.00302
-immature B cell,http://purl.obolibrary.org/obo/CL_0000816,http://doi.org/10.3389/fimmu.2012.00302
-immature NK T cell,http://purl.obolibrary.org/obo/CL_0000914,http://doi.org/10.1002/eji.200425958
-immature NK T cell,http://purl.obolibrary.org/obo/CL_0000914,http://doi.org/10.1111/cei.12045
-immature NK T cell,http://purl.obolibrary.org/obo/CL_0000914,http://doi.org/10.1126/science.aay3224
-immature conventional dendritic cell,http://purl.obolibrary.org/obo/CL_0000840,http://doi.org/10.1182/blood-2004-02-0769
-immature conventional dendritic cell,http://purl.obolibrary.org/obo/CL_0000840,http://doi.org/10.1182/blood-2004-02-0769
-intestinal crypt stem cell of large intestine,http://purl.obolibrary.org/obo/CL_0009016,http://doi.org/10.1038/nature06196
-intestinal tuft cell,http://purl.obolibrary.org/obo/CL_0019032,http://doi.org/10.1038/s41598-019-53997-3
-intestinal tuft cell,http://purl.obolibrary.org/obo/CL_0019032,http://doi.org/10.1038/s42003-020-01181-z
-intestinal tuft cell,http://purl.obolibrary.org/obo/CL_0019032,http://doi.org/10.4049/jimmunol.1801069
-iris pigment epithelial cell,http://purl.obolibrary.org/obo/CL_0002565,http://doi.org/10.3390/cell7110210
-keratinocyte,http://purl.obolibrary.org/obo/CL_0000312,http://doi.org/10.1083/jcb.200603161
-keratinocyte,http://purl.obolibrary.org/obo/CL_0000312,http://doi.org/10.1146/annurev.cb.11.110195.001011
-keratinocyte stem cell,http://purl.obolibrary.org/obo/CL_0002337,http://doi.org/10.1002/jcp.22275
-keratinocyte stem cell,http://purl.obolibrary.org/obo/CL_0002337,http://doi.org/10.1038/labinvest.2009.48
-keratocyte,http://purl.obolibrary.org/obo/CL_0002363,http://doi.org/10.1111/jcmm.13270
-kidney afferent arteriole endothelial cell,http://purl.obolibrary.org/obo/CL_1001096,http://doi.org/10.1038/s41467-019-10861-2
-kidney afferent arteriole endothelial cell,http://purl.obolibrary.org/obo/CL_1001096,http://doi.org/10.1172/jci.insight.133267
-kidney collecting duct epithelial cell,http://purl.obolibrary.org/obo/CL_1000454,http://doi.org/10.1038/s41467-019-10861-2
-kidney collecting duct epithelial cell,http://purl.obolibrary.org/obo/CL_1000454,http://doi.org/10.1172/jci.insight.133267
-kidney collecting duct epithelial cell,http://purl.obolibrary.org/obo/CL_1000454,http://doi.org/10.1681/ASN.2020010071
-kidney collecting duct intercalated cell,http://purl.obolibrary.org/obo/CL_1001432,http://doi.org/10.1016/j.devcel.2019.10.005
-kidney collecting duct intercalated cell,http://purl.obolibrary.org/obo/CL_1001432,http://doi.org/10.1038/s41467-019-10861-2
-kidney collecting duct intercalated cell,http://purl.obolibrary.org/obo/CL_1001432,http://doi.org/10.1038/s41586-020-2941-1
-kidney collecting duct intercalated cell,http://purl.obolibrary.org/obo/CL_1001432,http://doi.org/10.1172/jci.insight.133267
-kidney collecting duct principal cell,http://purl.obolibrary.org/obo/CL_1001431,http://doi.org/10.1016/j.devcel.2019.10.005
-kidney collecting duct principal cell,http://purl.obolibrary.org/obo/CL_1001431,http://doi.org/10.1038/s41467-019-10861-2
-kidney collecting duct principal cell,http://purl.obolibrary.org/obo/CL_1001431,http://doi.org/10.1038/s41586-020-2941-1
-kidney collecting duct principal cell,http://purl.obolibrary.org/obo/CL_1001431,http://doi.org/10.1172/jci.insight.133267
-kidney connecting tubule epithelial cell,http://purl.obolibrary.org/obo/CL_1000768,http://doi.org/10.1038/s41467-019-10861-2
-kidney connecting tubule epithelial cell,http://purl.obolibrary.org/obo/CL_1000768,http://doi.org/10.1681/ASN.2020010071
-kidney cortex collecting duct intercalated cell,http://purl.obolibrary.org/obo/CL_1000715,http://doi.org/10.1016/j.devcel.2019.10.005
-kidney cortex collecting duct intercalated cell,http://purl.obolibrary.org/obo/CL_1000715,http://doi.org/10.1038/s41467-019-10861-2
-kidney cortex collecting duct intercalated cell,http://purl.obolibrary.org/obo/CL_1000715,http://doi.org/10.1172/jci.insight.133267
-kidney cortex collecting duct intercalated cell,http://purl.obolibrary.org/obo/CL_1000715,http://doi.org/10.1016/j.devcel.2019.10.005
-kidney cortex collecting duct intercalated cell,http://purl.obolibrary.org/obo/CL_1000715,http://doi.org/10.1038/s41467-019-10861-2
-kidney cortex collecting duct intercalated cell,http://purl.obolibrary.org/obo/CL_1000715,http://doi.org/10.1126/science.aat1699
-kidney cortex collecting duct intercalated cell,http://purl.obolibrary.org/obo/CL_1000715,http://doi.org/10.1172/jci.insight.133267
-kidney cortex collecting duct principal cell,http://purl.obolibrary.org/obo/CL_1000714,http://doi.org/10.1016/j.devcel.2019.10.005
-kidney cortex collecting duct principal cell,http://purl.obolibrary.org/obo/CL_1000714,http://doi.org/10.1038/s41467-019-10861-2
-kidney cortex collecting duct principal cell,http://purl.obolibrary.org/obo/CL_1000714,http://doi.org/10.1172/jci.insight.133267
-kidney distal convoluted tubule epithelial cell,http://purl.obolibrary.org/obo/CL_1000849,http://doi.org/10.1038/s41467-019-10861-2
-kidney distal convoluted tubule epithelial cell,http://purl.obolibrary.org/obo/CL_1000849,http://doi.org/10.1681/ASN.2020010071
-kidney efferent arteriole endothelial cell,http://purl.obolibrary.org/obo/CL_1001099,http://doi.org/10.1038/s41467-019-10861-2
-kidney efferent arteriole endothelial cell,http://purl.obolibrary.org/obo/CL_1001099,http://doi.org/10.1172/jci.insight.133267
-kidney granular cell,http://purl.obolibrary.org/obo/CL_0000648,http://doi.org/10.1038/s41467-019-10861-2
-kidney granular cell,http://purl.obolibrary.org/obo/CL_0000648,http://doi.org/10.1073/pnas.2005477117
-kidney inner medulla collecting duct principal cell,http://purl.obolibrary.org/obo/CL_1000718,http://doi.org/10.1016/j.devcel.2019.10.005
-kidney inner medulla collecting duct principal cell,http://purl.obolibrary.org/obo/CL_1000718,http://doi.org/10.1038/s41467-019-10861-2
-kidney inner medulla collecting duct principal cell,http://purl.obolibrary.org/obo/CL_1000718,http://doi.org/10.1101/2021.07.28.454201
-kidney inner medulla collecting duct principal cell,http://purl.obolibrary.org/obo/CL_1000718,http://doi.org/10.1681/ASN.2020010071
-kidney interstitial fibroblast,http://purl.obolibrary.org/obo/CL_1000692,http://doi.org/10.1038/s41467-019-10861-2
-kidney interstitial fibroblast,http://purl.obolibrary.org/obo/CL_1000692,http://doi.org/10.1172/jci.insight.133267
-kidney interstitial myofibroblast,http://purl.obolibrary.org/obo/CL_1000691,http://doi.org/10.1038/s41467-019-10861-2
-kidney interstitial myofibroblast,http://purl.obolibrary.org/obo/CL_1000691,http://doi.org/10.1038/s41586-020-2941-1
-kidney loop of Henle cortical thick ascending limb epithelial cell,http://purl.obolibrary.org/obo/CL_1001109,http://doi.org/10.1016/j.devcel.2019.10.005
-kidney loop of Henle cortical thick ascending limb epithelial cell,http://purl.obolibrary.org/obo/CL_1001109,http://doi.org/10.1038/s41467-019-10861-2
-kidney loop of Henle cortical thick ascending limb epithelial cell,http://purl.obolibrary.org/obo/CL_1001109,http://doi.org/10.1681/ASN.2020010071
-kidney loop of Henle medullary thick ascending limb epithelial cell,http://purl.obolibrary.org/obo/CL_1001108,http://doi.org/10.1016/j.devcel.2019.10.005
-kidney loop of Henle medullary thick ascending limb epithelial cell,http://purl.obolibrary.org/obo/CL_1001108,http://doi.org/10.1038/s41467-019-10861-2
-kidney loop of Henle medullary thick ascending limb epithelial cell,http://purl.obolibrary.org/obo/CL_1001108,http://doi.org/10.1172/jci.insight.133267
-kidney loop of Henle medullary thick ascending limb epithelial cell,http://purl.obolibrary.org/obo/CL_1001108,http://doi.org/10.1681/ASN.2020010071
-kidney loop of Henle thick ascending limb epithelial cell,http://purl.obolibrary.org/obo/CL_1001106,http://doi.org/10.1016/j.devcel.2019.10.005
-kidney loop of Henle thick ascending limb epithelial cell,http://purl.obolibrary.org/obo/CL_1001106,http://doi.org/10.1038/s41467-019-10861-2
-kidney loop of Henle thick ascending limb epithelial cell,http://purl.obolibrary.org/obo/CL_1001106,http://doi.org/10.1038/s41586-020-2941-1
-kidney loop of Henle thick ascending limb epithelial cell,http://purl.obolibrary.org/obo/CL_1001106,http://doi.org/10.1172/jci.insight.133267
-kidney loop of Henle thick ascending limb epithelial cell,http://purl.obolibrary.org/obo/CL_1001106,http://doi.org/10.1681/ASN.2020010071
-kidney loop of Henle thin ascending limb epithelial cell,http://purl.obolibrary.org/obo/CL_1001107,http://doi.org/10.1016/j.devcel.2019.10.005
-kidney loop of Henle thin ascending limb epithelial cell,http://purl.obolibrary.org/obo/CL_1001107,http://doi.org/10.1038/s41467-019-10861-2
-kidney loop of Henle thin descending limb epithelial cell,http://purl.obolibrary.org/obo/CL_1001111,http://doi.org/10.1038/s41467-019-10861-2
-kidney loop of Henle thin descending limb epithelial cell,http://purl.obolibrary.org/obo/CL_1001111,http://doi.org/10.1172/jci.insight.133267
-kidney loop of Henle thin descending limb epithelial cell,http://purl.obolibrary.org/obo/CL_1001111,http://doi.org/10.1681/ASN.2020010071
-kidney outer medulla collecting duct intercalated cell,http://purl.obolibrary.org/obo/CL_1000717,http://doi.org/10.1038/s41467-019-10861-2
-kidney outer medulla collecting duct intercalated cell,http://purl.obolibrary.org/obo/CL_1000717,http://doi.org/10.1126/science.aat1699
-kidney outer medulla collecting duct principal cell,http://purl.obolibrary.org/obo/CL_1000716,http://doi.org/10.1016/j.devcel.2019.10.005
-kidney outer medulla collecting duct principal cell,http://purl.obolibrary.org/obo/CL_1000716,http://doi.org/10.1038/s41467-019-10861-2
-kidney outer medulla collecting duct principal cell,http://purl.obolibrary.org/obo/CL_1000716,http://doi.org/10.1172/jci.insight.133267
-kidney resident macrophage,http://purl.obolibrary.org/obo/CL_1000698,http://doi.org/10.1038/s41467-019-10861-2
-kidney resident macrophage,http://purl.obolibrary.org/obo/CL_1000698,http://doi.org/10.1038/s41586-020-2941-1
-kidney resident macrophage,http://purl.obolibrary.org/obo/CL_1000698,http://doi.org/10.1126/science.aat5031
-large intestine crypt goblet cell,http://purl.obolibrary.org/obo/CL_1000321,http://doi.org/10.1038/s42003-020-01181-z
-lens fiber cell,http://purl.obolibrary.org/obo/CL_0011004,http://doi.org/10.1167/iovs.15-18117
-luminal cell of prostate epithelium,http://purl.obolibrary.org/obo/CL_0002340,http://doi.org/10.1002/path.5751
-lymph node tingible body macrophage,http://purl.obolibrary.org/obo/CL_0000888,http://doi.org/10.1111/cas.13137
-lymphocyte of large intestine lamina propria,http://purl.obolibrary.org/obo/CL_0009018,http://doi.org/10.1007/978-1-4939-0897-4_3
-lymphocyte of large intestine lamina propria,http://purl.obolibrary.org/obo/CL_0009018,http://doi.org/10.1016/j.immuni.2020.02.001
-lymphocyte of large intestine lamina propria,http://purl.obolibrary.org/obo/CL_0009018,http://doi.org/10.1016/j.immuni.2020.02.001
-lymphocyte of large intestine lamina propria,http://purl.obolibrary.org/obo/CL_0009018,http://doi.org/10.1007/978-1-4939-0897-4_3
-lymphocyte of large intestine lamina propria,http://purl.obolibrary.org/obo/CL_0009018,http://doi.org/10.1016/j.immuni.2020.02.001
-lymphocyte of large intestine lamina propria,http://purl.obolibrary.org/obo/CL_0009018,http://doi.org/10.1007/978-1-4939-0897-4_3
-lymphocyte of large intestine lamina propria,http://purl.obolibrary.org/obo/CL_0009018,http://doi.org/10.1016/j.immuni.2020.02.001
-lymphocyte of large intestine lamina propria,http://purl.obolibrary.org/obo/CL_0009018,http://doi.org/10.1016/j.immuni.2020.02.001
-lymphocyte of large intestine lamina propria,http://purl.obolibrary.org/obo/CL_0009018,http://doi.org/10.1007/978-1-4939-0897-4_3
-lymphocyte of large intestine lamina propria,http://purl.obolibrary.org/obo/CL_0009018,http://doi.org/10.1016/j.immuni.2020.02.001
-lymphocyte of large intestine lamina propria,http://purl.obolibrary.org/obo/CL_0009018,http://doi.org/10.1016/j.immuni.2020.02.001
-macrophage,http://purl.obolibrary.org/obo/CL_0000235,http://doi.org/10.1053/j.semdp.2017.11.002
-macrophage,http://purl.obolibrary.org/obo/CL_0000235,http://doi.org/10.1097/01.pas.0000157940.80538.ec
-macrophage,http://purl.obolibrary.org/obo/CL_0000235,http://doi.org/10.1182/blood-2008-06-165266
-macrophage,http://purl.obolibrary.org/obo/CL_0000235,http://doi.org/10.1111/cas.13137
-macrophage,http://purl.obolibrary.org/obo/CL_0000235,http://doi.org/10.1182/blood-2008-06-165266
-macrophage,http://purl.obolibrary.org/obo/CL_0000235,http://doi.org/10.1182/blood.v97.1.288
-macrophage,http://purl.obolibrary.org/obo/CL_0000235,http://doi.org/10.1182/blood-2008-06-165266
-macrophage,http://purl.obolibrary.org/obo/CL_0000235,http://doi.org/10.1007/978-1-4939-0897-4_3
-macrophage,http://purl.obolibrary.org/obo/CL_0000235,http://doi.org/10.1016/j.immuni.2020.02.001
-macula densa epithelial cell,http://purl.obolibrary.org/obo/CL_1000850,http://doi.org/10.1016/j.devcel.2019.10.005
-macula densa epithelial cell,http://purl.obolibrary.org/obo/CL_1000850,http://doi.org/10.1038/s41467-019-10861-2
-macula densa epithelial cell,http://purl.obolibrary.org/obo/CL_1000850,http://doi.org/10.1681/ASN.2020010071
-mast cell,http://purl.obolibrary.org/obo/CL_0000097,http://doi.org/10.1016/j.immuni.2020.02.001
-mast cell,http://purl.obolibrary.org/obo/CL_0000097,http://doi.org/10.1097/00000478-199003000-00010
-mast cell,http://purl.obolibrary.org/obo/CL_0000097,http://doi.org/10.1126/science.aay3224
-mast cell,http://purl.obolibrary.org/obo/CL_0000097,http://doi.org/10.1016/j.beha.2010.07.003.
-mast cell,http://purl.obolibrary.org/obo/CL_0000097,http://doi.org/10.1016/j.iac.2014.01.005
-mast cell,http://purl.obolibrary.org/obo/CL_0000097,http://doi.org/10.3389/fimmu.2020.01234
-mast cell,http://purl.obolibrary.org/obo/CL_0000097,http://doi.org/10.1016/S1081-1206(10)62853-0
-mast cell,http://purl.obolibrary.org/obo/CL_0000097,http://doi.org/10.1111/imr.12639
-mast cell,http://purl.obolibrary.org/obo/CL_0000097,http://doi.org/10.1159/000053694.
-mast cell,http://purl.obolibrary.org/obo/CL_0000097,http://doi.org/10.1016/S1081-1206(10)62853-0
-mast cell,http://purl.obolibrary.org/obo/CL_0000097,http://doi.org/10.1111/imr.12639.
-mast cell,http://purl.obolibrary.org/obo/CL_0000097,http://doi.org/10.1159/000053694
-mast cell,http://purl.obolibrary.org/obo/CL_0000097,http://doi.org/10.1038/s41467-019-10861-2
-mast cell,http://purl.obolibrary.org/obo/CL_0000097,http://doi.org/10.1038/s41586-020-2941-1
-mast cell,http://purl.obolibrary.org/obo/CL_0000097,http://doi.org/10.1101/2021.07.28.454201
-mast cell,http://purl.obolibrary.org/obo/CL_0000097,http://doi.org/10.1172/jci.insight.133267
-mature CD4 single-positive thymocyte,http://purl.obolibrary.org/obo/CL_0002436,http://doi.org/10.1038/s41467-021-21346-6
-mature CD4 single-positive thymocyte,http://purl.obolibrary.org/obo/CL_0002436,http://doi.org/10.1126/science.aay3224
-mature CD4 single-positive thymocyte,http://purl.obolibrary.org/obo/CL_0002436,http://doi.org/10.3389/fimmu.2019.00447
-mature CD4 single-positive thymocyte,http://purl.obolibrary.org/obo/CL_0002436,http://doi.org/10.1172/JCI7558.
-mature CD8 single-positive thymocyte,http://purl.obolibrary.org/obo/CL_0002437,http://doi.org/10.1038/s41467-021-21346-6
-mature CD8 single-positive thymocyte,http://purl.obolibrary.org/obo/CL_0002437,http://doi.org/10.1126/science.aay3224
-mature CD8 single-positive thymocyte,http://purl.obolibrary.org/obo/CL_0002437,http://doi.org/10.3389/fimmu.2019.00447
-mature CD8 single-positive thymocyte,http://purl.obolibrary.org/obo/CL_0002437,http://doi.org/10.1172/JCI7558.
-mature NK T cell,http://purl.obolibrary.org/obo/CL_0000814,http://doi.org/10.1038/s41467-019-10861-2
-mature NK T cell,http://purl.obolibrary.org/obo/CL_0000814,http://doi.org/10.1038/s41586-020-2941-1
-mature NK T cell,http://purl.obolibrary.org/obo/CL_0000814,http://doi.org/10.1172/jci.insight.133267
-mature eosinophil,http://purl.obolibrary.org/obo/CL_0000041,http://doi.org/10.1016/j.immuni.2020.02.001
-mature neutrophil,http://purl.obolibrary.org/obo/CL_0000096,http://doi.org/10.1016/j.immuni.2020.02.001
-megakaryocyte,http://purl.obolibrary.org/obo/CL_0000556,http://doi.org/10.1182/bloodadvances.2020002843
-megakaryocyte-erythroid progenitor cell,http://purl.obolibrary.org/obo/CL_0000050,http://doi.org/10.1038/ni.1889
-melanocyte of skin,http://purl.obolibrary.org/obo/CL_1000458,http://doi.org/10.1034/j.1600-0854.2002.30909.x
-melanocyte of skin,http://purl.obolibrary.org/obo/CL_1000458,http://doi.org/10.1038/s41586-020-2785-8
-melanocyte of skin,http://purl.obolibrary.org/obo/CL_1000458,http://doi.org/10.1046/j.1365-2133.1997.17651853.x
-melanocyte of skin,http://purl.obolibrary.org/obo/CL_1000458,http://doi.org/10.1074/jbc.m309036200
-memory B cell,http://purl.obolibrary.org/obo/CL_0000787,http://doi.org/10.1002/jcla.20001
-memory B cell,http://purl.obolibrary.org/obo/CL_0000787,http://doi.org/10.1002/jcla.20001
-monocyte,http://purl.obolibrary.org/obo/CL_0000576,http://doi.org/10.1126/science.aay3224
-monocyte,http://purl.obolibrary.org/obo/CL_0000576,http://doi.org/10.1038/s41467-019-10861-2
-monocyte,http://purl.obolibrary.org/obo/CL_0000576,http://doi.org/10.1038/s41586-020-2941-1
-monocyte,http://purl.obolibrary.org/obo/CL_0000576,http://doi.org/10.1126/science.aat5031
-mucosal invariant T cell,http://purl.obolibrary.org/obo/CL_0000940,http://doi.org/10.1038/ni.3565.
-myoepithelial cell of sweat gland,http://purl.obolibrary.org/obo/CL_1000417,http://doi.org/10.1046/j.1365-2133.1997.17651853.x
-myoepithelial cell of sweat gland,http://purl.obolibrary.org/obo/CL_1000417,http://doi.org/10.1097/DAD.0000000000000431
-myoepithelial cell of sweat gland,http://purl.obolibrary.org/obo/CL_1000417,http://doi.org/10.1247/csf.14009
-myoepithelial cell of sweat gland,http://purl.obolibrary.org/obo/CL_1000417,http://doi.org/10.1046/j.1365-2133.1997.17651853.x
-myoepithelial cell of sweat gland,http://purl.obolibrary.org/obo/CL_1000417,http://doi.org/10.1111/1523-1747.ep12277180
-myoepithelial cell of sweat gland,http://purl.obolibrary.org/obo/CL_1000417,http://doi.org/10.1111/exd.12773
-myoepithelial cell of sweat gland,http://purl.obolibrary.org/obo/CL_1000417,http://doi.org/10.1046/j.0022-202x.2001.00005.x
-myoepithelial cell of sweat gland,http://purl.obolibrary.org/obo/CL_1000417,http://doi.org/10.1083/jcb.95.2.580
-myoepithelial cell of sweat gland,http://purl.obolibrary.org/obo/CL_1000417,http://doi.org/10.1097/DAD.0000000000000306
-myofibroblast cell,http://purl.obolibrary.org/obo/CL_0000186,http://doi.org/10.1002/ar.1091830404
-naive B cell,http://purl.obolibrary.org/obo/CL_0000788,http://doi.org/10.1038/s41467-019-12464-3
-naive B cell,http://purl.obolibrary.org/obo/CL_0000788,http://doi.org/10.1126/science.aay3224
-naive B cell,http://purl.obolibrary.org/obo/CL_0000788,http://doi.org/10.1126/sciimmunol.aah4447
-naive B cell,http://purl.obolibrary.org/obo/CL_0000788,http://doi.org/10.1038/s41467-019-12464-3
-naive regulatory T cell,http://purl.obolibrary.org/obo/CL_0002677,http://doi.org/10.1038/nature03886
-naive regulatory T cell,http://purl.obolibrary.org/obo/CL_0002677,http://doi.org/10.1126/science.aay3224
-naive regulatory T cell,http://purl.obolibrary.org/obo/CL_0002677,http://doi.org/10.3389/fimmu.2019.00447
-"naive thymus-derived CD4-positive, alpha-beta T cell",http://purl.obolibrary.org/obo/CL_0000895,http://doi.org/10.4049/jimmunol.1701025
-"naive thymus-derived CD8-positive, alpha-beta T cell",http://purl.obolibrary.org/obo/CL_0000900,http://doi.org/10.1002/cyto.a.20643
-natural killer cell,http://purl.obolibrary.org/obo/CL_0000623,http://doi.org/10.1038/s41467-019-10861-2
-natural killer cell,http://purl.obolibrary.org/obo/CL_0000623,http://doi.org/10.1038/s41586-020-2941-1
-natural killer cell,http://purl.obolibrary.org/obo/CL_0000623,http://doi.org/10.1126/science.aat5031
-natural killer cell,http://purl.obolibrary.org/obo/CL_0000623,http://doi.org/10.1172/jci.insight.133267
-natural killer cell,http://purl.obolibrary.org/obo/CL_0000623,http://doi.org/10.1126/science.aay3224
-natural killer cell,http://purl.obolibrary.org/obo/CL_0000623,http://doi.org/10.4049/jimmunol.166.4.2194
-natural killer cell,http://purl.obolibrary.org/obo/CL_0000623,http://doi.org/10.3389/fimmu.2019.01502
-natural killer cell,http://purl.obolibrary.org/obo/CL_0000623,http://doi.org/10.1038/nri.2016.34
-natural killer cell,http://purl.obolibrary.org/obo/CL_0000623,http://doi.org/10.1016/j.jaci.2009.11.020
-natural killer cell,http://purl.obolibrary.org/obo/CL_0000623,http://doi.org/10.1016/s1471-4906(01)02060-9
-neuroendocrine cell,http://purl.obolibrary.org/obo/CL_0000165,http://doi.org/10.1159/000501521
-neuroendocrine cell,http://purl.obolibrary.org/obo/CL_0000165,http://doi.org/10.1159/000501521
-neuroendocrine cell,http://purl.obolibrary.org/obo/CL_0000165,http://doi.org/10.3892/or.2012.2119
-neuron,http://purl.obolibrary.org/obo/CL_0000540,http://doi.org/10.1016/S0065-1281(97)80024-4
-neuron,http://purl.obolibrary.org/obo/CL_0000540,http://doi.org/10.1016/j.pneurobio.2009.10.020
-neuron,http://purl.obolibrary.org/obo/CL_0000540,http://doi.org/10.1212/WNL.0000000000001773
-neuron,http://purl.obolibrary.org/obo/CL_0000540,http://doi.org/10.14670/HH-11-610
-neutrophil,http://purl.obolibrary.org/obo/CL_0000775,http://doi.org/10.1016/j.exphem.2016.10.008
-neutrophil,http://purl.obolibrary.org/obo/CL_0000775,http://doi.org/10.1038/s41586-020-2941-1
-neutrophil,http://purl.obolibrary.org/obo/CL_0000775,http://doi.org/10.1101/2021.07.28.454201
-neutrophil,http://purl.obolibrary.org/obo/CL_0000775,http://doi.org/10.1126/science.aat5031
-neutrophil,http://purl.obolibrary.org/obo/CL_0000775,http://doi.org/10.1172/jci.insight.133267
-neutrophil,http://purl.obolibrary.org/obo/CL_0000775,http://doi.org/10.1111/1523-1747.ep12506462
-neutrophil,http://purl.obolibrary.org/obo/CL_0000775,http://doi.org/10.1172/JCI124616
-neutrophil,http://purl.obolibrary.org/obo/CL_0000775,http://doi.org/10.4049/jimmunol.181.5.3628
-non-classical monocyte,http://purl.obolibrary.org/obo/CL_0000875,http://doi.org/10.1101/2021.07.28.454201
-non-classical monocyte,http://purl.obolibrary.org/obo/CL_0000875,http://doi.org/10.1126/science.aat5031
-non-classical monocyte,http://purl.obolibrary.org/obo/CL_0000875,http://doi.org/10.1172/jci.insight.133267
-non-classical monocyte,http://purl.obolibrary.org/obo/CL_0000875,http://doi.org/10.3389/fimmu.2019.02035
-obsolete Muller cell,http://purl.obolibrary.org/obo/CL_0011107,http://doi.org/10.1016/j.ophtha.2017.09.016
-paneth cell of colon,http://purl.obolibrary.org/obo/CL_0009009,http://doi.org/10.1016/j.humpath.2008.12.003
-paneth cell of epithelium proper of small intestine,http://purl.obolibrary.org/obo/CL_1000344,http://doi.org/10.1016/j.celrep.2021.108819
-parietal epithelial cell,http://purl.obolibrary.org/obo/CL_1000452,http://doi.org/10.1038/s41467-019-10861-2
-parietal epithelial cell,http://purl.obolibrary.org/obo/CL_1000452,http://doi.org/10.1172/jci.insight.133267
-pericyte cell,http://purl.obolibrary.org/obo/CL_0000669,http://doi.org/10.1016/j.jchemneu.2018.06.001
-pericyte cell,http://purl.obolibrary.org/obo/CL_0000669,http://doi.org/10.1083/jcb.113.1.147
-pericyte cell,http://purl.obolibrary.org/obo/CL_0000669,http://doi.org/10.1186/s12929-018-0423-7
-pericyte cell,http://purl.obolibrary.org/obo/CL_0000669,http://doi.org/10.1007/978-1-4939-0897-4_3
-pericyte cell,http://purl.obolibrary.org/obo/CL_0000669,http://doi.org/10.1007/978-1-4939-0897-4_3
-pericyte cell,http://purl.obolibrary.org/obo/CL_0000669,http://doi.org/10.1152/ajpgi.00432.2011
-pericyte cell,http://purl.obolibrary.org/obo/CL_0000669,http://doi.org/10.3389/fcvm.2020.00052
-periportal region hepatocyte,http://purl.obolibrary.org/obo/CL_0019026,http://doi.org/10.1038/s42255-019-0109-9
-periportal region hepatocyte,http://purl.obolibrary.org/obo/CL_0019026,http://doi.org/10.1053/j.gastro.2009.02.063
-peritubular capillary endothelial cell,http://purl.obolibrary.org/obo/CL_1001033,http://doi.org/10.1038/s41467-019-10861-2
-peritubular capillary endothelial cell,http://purl.obolibrary.org/obo/CL_1001033,http://doi.org/10.1038/s41467-019-12872-5
-peritubular capillary endothelial cell,http://purl.obolibrary.org/obo/CL_1001033,http://doi.org/10.1172/jci.insight.133267
-pigmented ciliary epithelial cell,http://purl.obolibrary.org/obo/CL_0002303,http://doi.org/10.3390/cell7110210
-plasma cell,http://purl.obolibrary.org/obo/CL_0000786,http://doi.org/10.1080/01926230600865549
-plasma cell,http://purl.obolibrary.org/obo/CL_0000786,http://doi.org/10.1126/science.aay3224
-plasma cell,http://purl.obolibrary.org/obo/CL_0000786,http://doi.org/10.1126/sciimmunol.aah4447
-plasma cell,http://purl.obolibrary.org/obo/CL_0000786,http://doi.org/10.1073/pnas.172384399
-plasma cell,http://purl.obolibrary.org/obo/CL_0000786,http://doi.org/10.1038/s41467-019-10861-2
-plasma cell,http://purl.obolibrary.org/obo/CL_0000786,http://doi.org/10.1038/s41586-020-2941-1
-plasma cell,http://purl.obolibrary.org/obo/CL_0000786,http://doi.org/10.1101/2021.07.28.454201
-plasma cell,http://purl.obolibrary.org/obo/CL_0000786,http://doi.org/10.1126/science.aat5031
-plasma cell,http://purl.obolibrary.org/obo/CL_0000786,http://doi.org/10.1172/jci.insight.133267
-plasmablast,http://purl.obolibrary.org/obo/CL_0000980,http://doi.org/10.1080/01926230600865549
-plasmablast,http://purl.obolibrary.org/obo/CL_0000980,http://doi.org/10.1126/science.aay3224
-"plasmacytoid dendritic cell, human",http://purl.obolibrary.org/obo/CL_0001058,http://doi.org/10.1111/bjh.14467
-"plasmacytoid dendritic cell, human",http://purl.obolibrary.org/obo/CL_0001058,http://doi.org/10.1016/S0002-9440(10)61694-X
-"plasmacytoid dendritic cell, human",http://purl.obolibrary.org/obo/CL_0001058,http://doi.org/10.1097/pap.0b013e3181bb6bc2
-"plasmacytoid dendritic cell, human",http://purl.obolibrary.org/obo/CL_0001058,http://doi.org/10.1111/bjh.14467
-"plasmacytoid dendritic cell, human",http://purl.obolibrary.org/obo/CL_0001058,http://doi.org/10.1038/s41467-019-10861-2
-"plasmacytoid dendritic cell, human",http://purl.obolibrary.org/obo/CL_0001058,http://doi.org/10.1101/2021.07.28.454201
-precursor B cell,http://purl.obolibrary.org/obo/CL_0000817,http://doi.org/10.1016/j.exphem.2018.09.004
-prickle cell,http://purl.obolibrary.org/obo/CL_0000649,http://doi.org/10.1038/jid.1952.87
-prickle cell,http://purl.obolibrary.org/obo/CL_0000649,http://doi.org/10.1083/jcb.200603161
-pro-B cell,http://purl.obolibrary.org/obo/CL_0000826,http://doi.org/10.1073/pnas.172384399
-prostate gland microvascular endothelial cell,http://purl.obolibrary.org/obo/CL_2000059,http://doi.org/10.1002/path.5751
-regulatory T cell,http://purl.obolibrary.org/obo/CL_0000815,http://doi.org/10.1111/1523-1747.ep12470172
-regulatory T cell,http://purl.obolibrary.org/obo/CL_0000815,http://doi.org/10.1111/imm.12791
-regulatory T cell,http://purl.obolibrary.org/obo/CL_0000815,http://doi.org/10.4049/jimmunol.1701025
-renal beta-intercalated cell,http://purl.obolibrary.org/obo/CL_0002201,http://doi.org/10.1016/j.devcel.2019.10.005
-renal beta-intercalated cell,http://purl.obolibrary.org/obo/CL_0002201,http://doi.org/10.1038/s41467-019-10861-2
-renal beta-intercalated cell,http://purl.obolibrary.org/obo/CL_0002201,http://doi.org/10.1126/science.aat1699
-renal beta-intercalated cell,http://purl.obolibrary.org/obo/CL_0002201,http://doi.org/10.1172/jci.insight.133267
-renal interstitial pericyte,http://purl.obolibrary.org/obo/CL_1001318,http://doi.org/10.1038/s41467-019-10861-2
-renal interstitial pericyte,http://purl.obolibrary.org/obo/CL_1001318,http://doi.org/10.1038/s41586-020-2941-1
-renal interstitial pericyte,http://purl.obolibrary.org/obo/CL_1001318,http://doi.org/10.1073/pnas.2005477117
-renal interstitial pericyte,http://purl.obolibrary.org/obo/CL_1001318,http://doi.org/10.1172/jci.insight.133267
-retina horizontal cell,http://purl.obolibrary.org/obo/CL_0000745,http://doi.org/10.1016/j.exer.2016.01.002
-retina horizontal cell,http://purl.obolibrary.org/obo/CL_0000745,http://doi.org/10.1016/j.preteyeres.2020.100844
-retinal bipolar neuron,http://purl.obolibrary.org/obo/CL_0000748,http://doi.org/10.1016/j.brainres.2007.06.007
-retinal bipolar neuron,http://purl.obolibrary.org/obo/CL_0000748,http://doi.org/10.1016/j.cell.2019.01.004
-retinal bipolar neuron,http://purl.obolibrary.org/obo/CL_0000748,http://doi.org/10.1016/j.exer.2016.01.002
-retinal cone cell,http://purl.obolibrary.org/obo/CL_0000573,http://doi.org/10.1016/j.exer.2016.01.002
-retinal cone cell,http://purl.obolibrary.org/obo/CL_0000573,http://doi.org/10.1016/j.ophtha.2017.09.016
-retinal ganglion cell,http://purl.obolibrary.org/obo/CL_0000740,http://doi.org/10.1016/j.cell.2019.01.004
-retinal ganglion cell,http://purl.obolibrary.org/obo/CL_0000740,http://doi.org/10.1017/S0952523819000087
-retinal pigment epithelial cell,http://purl.obolibrary.org/obo/CL_0002586,http://doi.org/10.1016/j.ophtha.2017.09.016
-retinal pigment epithelial cell,http://purl.obolibrary.org/obo/CL_0002586,http://doi.org/10.1083/jcb.147.7.1533
-retinal rod cell,http://purl.obolibrary.org/obo/CL_0000604,http://doi.org/10.1016/j.cell.2019.01.004
-retinal rod cell,http://purl.obolibrary.org/obo/CL_0000604,http://doi.org/10.1016/j.exer.2016.01.002
-secretory cell,http://purl.obolibrary.org/obo/CL_0000151,http://doi.org/10.1016/j.bbagen.2013.05.016
-secretory cell,http://purl.obolibrary.org/obo/CL_0000151,http://doi.org/10.1016/j.biocel.2009.11.017
-secretory cell,http://purl.obolibrary.org/obo/CL_0000151,http://doi.org/10.4161/derm.1.2.8736
-skin fibroblast,http://purl.obolibrary.org/obo/CL_0002620,http://doi.org/10.1016/j.tcb.2014.10.001
-skin fibroblast,http://purl.obolibrary.org/obo/CL_0002620,http://doi.org/10.1074/jbc.M701586200
-skin fibroblast,http://purl.obolibrary.org/obo/CL_0002620,http://doi.org/10.1097/00000372-199606000-00008
-skin fibroblast,http://purl.obolibrary.org/obo/CL_0002620,http://doi.org/10.1111/j.1365-2133.1989.tb15509.x
-smooth muscle cell of large intestine,http://purl.obolibrary.org/obo/CL_1000279,http://doi.org/10.1007/978-1-4939-0897-4_3
-smooth muscle cell of prostate,http://purl.obolibrary.org/obo/CL_1000487,http://doi.org/10.1002/path.5751
-stratified cuboidal epithelial cell,http://purl.obolibrary.org/obo/CL_0000241,http://doi.org/10.1111/j.1365-2559.2009.03391.x
-subcutaneous fat cell,http://purl.obolibrary.org/obo/CL_0002521,http://doi.org/10.1016/j.humpath.2005.11.006
-subcutaneous fat cell,http://purl.obolibrary.org/obo/CL_0002521,http://doi.org/10.1101/cshperspect.a015271
-subcutaneous fat cell,http://purl.obolibrary.org/obo/CL_0002521,http://doi.org/10.1155/2010/790431
-sympathetic neuron,http://purl.obolibrary.org/obo/CL_0011103,http://doi.org/10.1046/j.1469-7580.1999.19410143.x
-sympathetic noradrenergic neuron,http://purl.obolibrary.org/obo/CL_3000002,http://doi.org/10.3892/ijmm.2014.1709
-thymic cortical macrophage,http://purl.obolibrary.org/obo/CL_0000883,http://doi.org/10.1016/s0065-2776(08)60900-1
-thymic macrophage,http://purl.obolibrary.org/obo/CL_0000866,http://doi.org/10.1016/j.imbio.2008.07.032
-thymic macrophage,http://purl.obolibrary.org/obo/CL_0000866,http://doi.org/10.1016/s0065-2776(08)60900-1
-thymic macrophage,http://purl.obolibrary.org/obo/CL_0000866,http://doi.org/10.1126/science.aay3224
-thymic plasmacytoid dendritic cell,http://purl.obolibrary.org/obo/CL_0000942,http://doi.org/10.1126/science.aay3224
-thymic plasmacytoid dendritic cell,http://purl.obolibrary.org/obo/CL_0000942,http://doi.org/10.1172/JCI11734.
-thymic plasmacytoid dendritic cell,http://purl.obolibrary.org/obo/CL_0000942,http://doi.org/10.1182/blood-2008-11-187633
-transit amplifying cell of colon,http://purl.obolibrary.org/obo/CL_0009011,http://doi.org/10.1038/s42003-020-01181-z
-transitional stage B cell,http://purl.obolibrary.org/obo/CL_0000818,http://doi.org/10.1073/pnas.172384399
-transitional stage B cell,http://purl.obolibrary.org/obo/CL_0000818,http://doi.org/10.1073/pnas.172384399
-type I cell of carotid body,http://purl.obolibrary.org/obo/CL_0002292,http://doi.org/10.1016/j.acthis.2015.07.007
-type I cell of carotid body,http://purl.obolibrary.org/obo/CL_0002292,http://doi.org/10.1016/j.cmet.2015.09.004
-type I pneumocyte,http://purl.obolibrary.org/obo/CL_0002062,http://doi.org/10.1177/002215549904700202
-type II pneumocyte,http://purl.obolibrary.org/obo/CL_0002063,http://doi.org/10.1177/002215549904700202
-unswitched memory B cell,http://purl.obolibrary.org/obo/CL_0000970,http://doi.org/10.1080/01926230600865549
-unswitched memory B cell,http://purl.obolibrary.org/obo/CL_0000970,http://doi.org/10.1126/science.aay3224
-unswitched memory B cell,http://purl.obolibrary.org/obo/CL_0000970,http://doi.org/10.1126/sciimmunol.aah4447
-vasa recta ascending limb cell,http://purl.obolibrary.org/obo/CL_1001131,http://doi.org/10.1038/s41467-019-10861-2
-vasa recta ascending limb cell,http://purl.obolibrary.org/obo/CL_1001131,http://doi.org/10.1038/s41467-019-12872-5
-vasa recta ascending limb cell,http://purl.obolibrary.org/obo/CL_1001131,http://doi.org/10.1038/s41586-020-2941-1
-vasa recta ascending limb cell,http://purl.obolibrary.org/obo/CL_1001131,http://doi.org/10.1101/2021.07.28.454201
-vasa recta descending limb cell,http://purl.obolibrary.org/obo/CL_1001285,http://doi.org/10.1038/s41467-019-10861-2
-vasa recta descending limb cell,http://purl.obolibrary.org/obo/CL_1001285,http://doi.org/10.1038/s41467-019-12872-5
-vasa recta descending limb cell,http://purl.obolibrary.org/obo/CL_1001285,http://doi.org/10.1101/2021.07.28.454201
-vascular associated smooth muscle cell,http://purl.obolibrary.org/obo/CL_0000359,http://doi.org/10.1002/biot.201200199
-vascular associated smooth muscle cell,http://purl.obolibrary.org/obo/CL_0000359,http://doi.org/10.1002/biot.201200199
-vascular associated smooth muscle cell,http://purl.obolibrary.org/obo/CL_0000359,http://doi.org/10.1083/jcb.113.1.147
-vein endothelial cell,http://purl.obolibrary.org/obo/CL_0002543,http://doi.org/10.1038/srep44356
+cell_type,cell_type_label,doi
+http://purl.obolibrary.org/obo/CL_0000236,B cell,http://doi.org/10.1038/s41573-020-00092-2
+http://purl.obolibrary.org/obo/CL_0000236,B cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_0000236,B cell,http://doi.org/10.1038/s41586-020-2941-1
+http://purl.obolibrary.org/obo/CL_0000236,B cell,http://doi.org/10.1126/science.aat5031
+http://purl.obolibrary.org/obo/CL_0000236,B cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_0002394,CD141-positive myeloid dendritic cell,http://doi.org/10.1016/S0002-9440(10)61694-X
+http://purl.obolibrary.org/obo/CL_0002394,CD141-positive myeloid dendritic cell,http://doi.org/10.1016/j.immuni.2017.02.019
+http://purl.obolibrary.org/obo/CL_0002399,CD1c-positive myeloid dendritic cell,http://doi.org/10.1002/cyto.a.23724
+http://purl.obolibrary.org/obo/CL_0002399,CD1c-positive myeloid dendritic cell,http://doi.org/10.1016/S0002-9440(10)61694-X
+http://purl.obolibrary.org/obo/CL_0002399,CD1c-positive myeloid dendritic cell,http://doi.org/10.1016/j.immuni.2017.02.019
+http://purl.obolibrary.org/obo/CL_0002399,CD1c-positive myeloid dendritic cell,http://doi.org/10.1038/s41423-020-0511-y
+http://purl.obolibrary.org/obo/CL_0000935,"CD4-negative, CD8-negative, alpha-beta intraepithelial T cell",http://doi.org/10.1093/intimm/7.9.1473
+http://purl.obolibrary.org/obo/CL_0000934,"CD4-positive, alpha-beta cytotoxic T cell",http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0000793,"CD4-positive, alpha-beta intraepithelial T cell",http://doi.org/10.1093/intimm/7.9.1473
+http://purl.obolibrary.org/obo/CL_0000897,"CD4-positive, alpha-beta memory T cell",http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0000897,"CD4-positive, alpha-beta memory T cell",http://doi.org/10.4049/jimmunol.1701025
+http://purl.obolibrary.org/obo/CL_0000915,"CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell",http://doi.org/10.1093/intimm/7.9.1473
+http://purl.obolibrary.org/obo/CL_0000796,"CD8-alpha-beta-positive, alpha-beta intraepithelial T cell",http://doi.org/10.1093/intimm/7.9.1473
+http://purl.obolibrary.org/obo/CL_0000909,"CD8-positive, alpha-beta memory T cell",http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0000909,"CD8-positive, alpha-beta memory T cell",http://doi.org/10.1002/cyto.a.20643
+http://purl.obolibrary.org/obo/CL_0002460,CD8alpha-negative thymic conventional dendritic cell,http://doi.org/10.1038/cti.2015.21
+http://purl.obolibrary.org/obo/CL_0002460,CD8alpha-negative thymic conventional dendritic cell,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0002460,CD8alpha-negative thymic conventional dendritic cell,http://doi.org/10.1172/JCI11734
+http://purl.obolibrary.org/obo/CL_0002059,CD8alpha-positive thymic conventional dendritic cell,http://doi.org/10.1038/cti.2015.21
+http://purl.obolibrary.org/obo/CL_0002059,CD8alpha-positive thymic conventional dendritic cell,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0002059,CD8alpha-positive thymic conventional dendritic cell,http://doi.org/10.1172/JCI11734
+http://purl.obolibrary.org/obo/CL_0000091,Kupffer cell,http://doi.org/10.1016/j.jhep.2010.04.037
+http://purl.obolibrary.org/obo/CL_0000242,Merkel cell,http://doi.org/10.1083/jcb.200603161
+http://purl.obolibrary.org/obo/CL_0000242,Merkel cell,http://doi.org/10.1111/1523-1747.ep12319788
+http://purl.obolibrary.org/obo/CL_0000242,Merkel cell,http://doi.org/10.1111/1523-1747.ep12606183
+http://purl.obolibrary.org/obo/CL_0000242,Merkel cell,http://doi.org/10.4103/0973-029X.125208
+http://purl.obolibrary.org/obo/CL_0000749,ON-bipolar cell,http://doi.org/10.1016/j.ophtha.2017.09.016
+http://purl.obolibrary.org/obo/CL_0002573,Schwann cell,http://doi.org/10.1016/S0065-1281(97)80024-4
+http://purl.obolibrary.org/obo/CL_0002573,Schwann cell,http://doi.org/10.1093/brain/awm199
+http://purl.obolibrary.org/obo/CL_0002573,Schwann cell,http://doi.org/10.1111/j.1365-4362.1984.tb05661.x
+http://purl.obolibrary.org/obo/CL_0002573,Schwann cell,http://doi.org/10.1111/wrr.12647
+http://purl.obolibrary.org/obo/CL_0002573,Schwann cell,http://doi.org/10.1093/brain/awm199
+http://purl.obolibrary.org/obo/CL_0002573,Schwann cell,http://doi.org/10.1111/j.1365-4362.1984.tb05661.x
+http://purl.obolibrary.org/obo/CL_0002573,Schwann cell,http://doi.org/10.1111/wrr.12647
+http://purl.obolibrary.org/obo/CL_0002573,Schwann cell,http://doi.org/10.1007/978-1-4939-0897-4_3
+http://purl.obolibrary.org/obo/CL_0002573,Schwann cell,http://doi.org/10.1034/j.1600-065x.2003.00072.x
+http://purl.obolibrary.org/obo/CL_0002573,Schwann cell,http://doi.org/10.1111/j.1440-1827.1989.tb02421.x
+http://purl.obolibrary.org/obo/CL_0000084,T cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_0000084,T cell,http://doi.org/10.1038/s41586-020-2941-1
+http://purl.obolibrary.org/obo/CL_0000084,T cell,http://doi.org/10.1126/science.aat5031
+http://purl.obolibrary.org/obo/CL_0000084,T cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_0002038,T follicular helper cell,http://doi.org/10.1016/j.immuni.2013.08.031
+http://purl.obolibrary.org/obo/CL_0002038,T follicular helper cell,http://doi.org/10.1097/01.pas.0000209855.28282.ce
+http://purl.obolibrary.org/obo/CL_0002038,T follicular helper cell,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0000545,T-helper 1 cell,http://doi.org/10.4049/jimmunol.1701025
+http://purl.obolibrary.org/obo/CL_0000899,T-helper 17 cell,http://doi.org/10.4049/jimmunol.1701025
+http://purl.obolibrary.org/obo/CL_0000899,T-helper 17 cell,http://doi.org/10.1084/jem.20080397
+http://purl.obolibrary.org/obo/CL_0000899,T-helper 17 cell,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0000546,T-helper 2 cell,http://doi.org/10.4049/jimmunol.1701025
+http://purl.obolibrary.org/obo/CL_0000526,afferent neuron,http://doi.org/10.3748/wjg.v12.i22.3523
+http://purl.obolibrary.org/obo/CL_0000583,alveolar macrophage,http://doi.org/10.1016/j.cellimm.2018.01.005
+http://purl.obolibrary.org/obo/CL_0000561,amacrine cell,http://doi.org/10.1002/cne.23821
+http://purl.obolibrary.org/obo/CL_0000561,amacrine cell,http://doi.org/10.1016/j.cell.2019.01.004
+http://purl.obolibrary.org/obo/CL_0000561,amacrine cell,http://doi.org/10.1016/j.preteyeres.2020.100844
+http://purl.obolibrary.org/obo/CL_0000646,basal cell,http://doi.org/10.1038/nrm3175
+http://purl.obolibrary.org/obo/CL_0000646,basal cell,http://doi.org/10.1083/jcb.200603161
+http://purl.obolibrary.org/obo/CL_0002341,basal cell of prostate epithelium,http://doi.org/10.1002/path.5751
+http://purl.obolibrary.org/obo/CL_0001070,beige adipocyte,http://doi.org/10.1007/s11357-013-9564-5
+http://purl.obolibrary.org/obo/CL_0001070,beige adipocyte,http://doi.org/10.3389/fendo.2019.00369
+http://purl.obolibrary.org/obo/CL_0000071,blood vessel endothelial cell,http://doi.org/10.1080/01926230600865549
+http://purl.obolibrary.org/obo/CL_0000071,blood vessel endothelial cell,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0000071,blood vessel endothelial cell,http://doi.org/10.1038/nri3298 (2012).
+http://purl.obolibrary.org/obo/CL_0000071,blood vessel endothelial cell,http://doi.org/10.1007/s00441-008-0706-5
+http://purl.obolibrary.org/obo/CL_0000071,blood vessel endothelial cell,http://doi.org/10.1369/jhc.4A6514.2005
+http://purl.obolibrary.org/obo/CL_0000071,blood vessel endothelial cell,http://doi.org/10.1371/journal.pone.0094781
+http://purl.obolibrary.org/obo/CL_0002144,capillary endothelial cell,http://doi.org/10.1034/j.1600-065x.2003.00072.x
+http://purl.obolibrary.org/obo/CL_0002144,capillary endothelial cell,http://doi.org/10.1111/j.1440-1827.1989.tb02421.x
+http://purl.obolibrary.org/obo/CL_0019029,centrilobular region hepatocyte,http://doi.org/10.1038/nature14863
+http://purl.obolibrary.org/obo/CL_0019029,centrilobular region hepatocyte,http://doi.org/10.1038/ncb3337
+http://purl.obolibrary.org/obo/CL_0019029,centrilobular region hepatocyte,http://doi.org/10.1053/j.gastro.2009.02.063
+http://purl.obolibrary.org/obo/CL_0000972,class switched memory B cell,http://doi.org/10.1080/01926230600865549
+http://purl.obolibrary.org/obo/CL_0000972,class switched memory B cell,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0000972,class switched memory B cell,http://doi.org/10.1126/sciimmunol.aah4447
+http://purl.obolibrary.org/obo/CL_0000075,columnar/cuboidal epithelial cell,http://doi.org/10.3748/wjg.v12.i22.3523
+http://purl.obolibrary.org/obo/CL_0000049,common myeloid progenitor,http://doi.org/10.1038/ni.1889
+http://purl.obolibrary.org/obo/CL_0000484,connective tissue type mast cell,http://doi.org/10.1007/s12016-020-08779-5
+http://purl.obolibrary.org/obo/CL_0000990,conventional dendritic cell,http://doi.org/10.3109/10428194.2013.781167
+http://purl.obolibrary.org/obo/CL_0000990,conventional dendritic cell,http://doi.org/10.1016/j.immuni.2017.04.019
+http://purl.obolibrary.org/obo/CL_0000990,conventional dendritic cell,http://doi.org/10.1084/jem.20030323
+http://purl.obolibrary.org/obo/CL_0000990,conventional dendritic cell,http://doi.org/10.1101/2021.07.28.454201
+http://purl.obolibrary.org/obo/CL_0000990,conventional dendritic cell,http://doi.org/10.1126/science.aat5031
+http://purl.obolibrary.org/obo/CL_0000132,corneal endothelial cell,http://doi.org/10.1038/srep29047
+http://purl.obolibrary.org/obo/CL_0000575,corneal epithelial cell,http://doi.org/10.1634/stemcell.22-3-355
+http://purl.obolibrary.org/obo/CL_0002364,cortical thymic epithelial cell,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0002364,cortical thymic epithelial cell,http://doi.org/10.1182/blood-2008-11-187633.
+http://purl.obolibrary.org/obo/CL_0002364,cortical thymic epithelial cell,http://doi.org/10.3791/50951
+http://purl.obolibrary.org/obo/CL_0000910,cytotoxic T cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_0000910,cytotoxic T cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_0000910,cytotoxic T cell,http://doi.org/10.1002/cyto.a.20643
+http://purl.obolibrary.org/obo/CL_0000451,dendritic cell,http://doi.org/10.1016/S0002-9440(10)61694-X
+http://purl.obolibrary.org/obo/CL_0000451,dendritic cell,http://doi.org/10.1053/j.semdp.2017.11.002
+http://purl.obolibrary.org/obo/CL_0000451,dendritic cell,http://doi.org/10.1016/S0002-9440(10)61694-X
+http://purl.obolibrary.org/obo/CL_0000451,dendritic cell,http://doi.org/10.1053/j.semdp.2017.11.002
+http://purl.obolibrary.org/obo/CL_0000451,dendritic cell,http://doi.org/10.1007/978-1-4939-0897-4_3
+http://purl.obolibrary.org/obo/CL_0000451,dendritic cell,http://doi.org/10.1016/j.immuni.2020.02.001
+http://purl.obolibrary.org/obo/CL_0001056,"dendritic cell, human",http://doi.org/10.1002/cyto.a.23724
+http://purl.obolibrary.org/obo/CL_0001056,"dendritic cell, human",http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_0001056,"dendritic cell, human",http://doi.org/10.1038/s41586-020-2941-1
+http://purl.obolibrary.org/obo/CL_0001056,"dendritic cell, human",http://doi.org/10.1126/science.aat5031
+http://purl.obolibrary.org/obo/CL_0001056,"dendritic cell, human",http://doi.org/10.1111/imm.12888
+http://purl.obolibrary.org/obo/CL_0000809,"double-positive, alpha-beta thymocyte",http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0000809,"double-positive, alpha-beta thymocyte",http://doi.org/10.3389/fimmu.2019.00447.
+http://purl.obolibrary.org/obo/CL_0002425,early T lineage precursor,http://doi.org/10.1016/j.immuni.2020.03.019
+http://purl.obolibrary.org/obo/CL_0002425,early T lineage precursor,http://doi.org/10.3389/fimmu.2019.00447.
+http://purl.obolibrary.org/obo/CL_0002313,endocrine-paracrine cell of prostate gland,http://doi.org/10.1002/path.5751
+http://purl.obolibrary.org/obo/CL_0000115,endothelial cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_0000115,endothelial cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_0000115,endothelial cell,http://doi.org/10.1016/j.vph.2016.05.003
+http://purl.obolibrary.org/obo/CL_0000115,endothelial cell,http://doi.org/10.1111/1523-1747.ep12512516
+http://purl.obolibrary.org/obo/CL_0000115,endothelial cell,http://doi.org/10.1152/ajpcell.00524.2001
+http://purl.obolibrary.org/obo/CL_1000412,endothelial cell of arteriole,http://doi.org/10.1007/978-1-4939-0897-4_3
+http://purl.obolibrary.org/obo/CL_1000398,endothelial cell of hepatic sinusoid,http://doi.org/10.3748/wjg.v12.i34.5429
+http://purl.obolibrary.org/obo/CL_0002652,endothelial cell of high endothelial venule,http://doi.org/10.1007/978-1-4939-0897-4_3
+http://purl.obolibrary.org/obo/CL_0002652,endothelial cell of high endothelial venule,http://doi.org/10.1016/j.immuni.2020.02.001
+http://purl.obolibrary.org/obo/CL_0002138,endothelial cell of lymphatic vessel,http://doi.org/10.1080/01926230600865549
+http://purl.obolibrary.org/obo/CL_0002138,endothelial cell of lymphatic vessel,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0002138,endothelial cell of lymphatic vessel,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_0002138,endothelial cell of lymphatic vessel,http://doi.org/10.1038/s41467-019-12872-5
+http://purl.obolibrary.org/obo/CL_0002138,endothelial cell of lymphatic vessel,http://doi.org/10.1038/s41586-020-2941-1
+http://purl.obolibrary.org/obo/CL_0002138,endothelial cell of lymphatic vessel,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_0002138,endothelial cell of lymphatic vessel,http://doi.org/10.1016/j.immuni.2019.06.027
+http://purl.obolibrary.org/obo/CL_0002138,endothelial cell of lymphatic vessel,http://doi.org/10.3389/fcvm.2020.00052
+http://purl.obolibrary.org/obo/CL_0002138,endothelial cell of lymphatic vessel,http://doi.org/10.1016/j.immuni.2019.06.027
+http://purl.obolibrary.org/obo/CL_0002138,endothelial cell of lymphatic vessel,http://doi.org/10.3389/fcvm.2020.00052
+http://purl.obolibrary.org/obo/CL_0002138,endothelial cell of lymphatic vessel,http://doi.org/10.1007/978-1-4939-0897-4_3
+http://purl.obolibrary.org/obo/CL_1000414,endothelial cell of venule,http://doi.org/10.1007/978-1-4939-0897-4_3
+http://purl.obolibrary.org/obo/CL_0002071,enterocyte of epithelium of large intestine,http://doi.org/10.1038/s42003-020-01181-z
+http://purl.obolibrary.org/obo/CL_0000771,eosinophil,http://doi.org/10.1097/00000478-199003000-00010
+http://purl.obolibrary.org/obo/CL_0000771,eosinophil,http://doi.org/10.1111/j.1440-1827.1995.tb03518.x
+http://purl.obolibrary.org/obo/CL_0000771,eosinophil,http://doi.org/10.2353/ajpath.2009.090015
+http://purl.obolibrary.org/obo/CL_0000771,eosinophil,http://doi.org/10.1097/00000478-199003000-00010
+http://purl.obolibrary.org/obo/CL_0000771,eosinophil,http://doi.org/10.1111/j.1440-1827.1995.tb03518.x.
+http://purl.obolibrary.org/obo/CL_0000771,eosinophil,http://doi.org/10.2353/ajpath.2009.090015
+http://purl.obolibrary.org/obo/CL_0000771,eosinophil,http://doi.org/10.1016/j.jaip.2018.06.002
+http://purl.obolibrary.org/obo/CL_0002457,epidermal Langerhans cell,http://doi.org/10.1016/S0171-2985(84)80117-5
+http://purl.obolibrary.org/obo/CL_0002457,epidermal Langerhans cell,http://doi.org/10.1016/s1074-7613(00)80160-0
+http://purl.obolibrary.org/obo/CL_0002457,epidermal Langerhans cell,http://doi.org/10.1111/1523-1747.ep12712175
+http://purl.obolibrary.org/obo/CL_0000066,epithelial cell,http://doi.org/10.3390/cell7110210
+http://purl.obolibrary.org/obo/CL_0002306,epithelial cell of proximal tubule,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_0002306,epithelial cell of proximal tubule,http://doi.org/10.1038/s41586-020-2941-1
+http://purl.obolibrary.org/obo/CL_0002306,epithelial cell of proximal tubule,http://doi.org/10.1073/pnas.2005477117
+http://purl.obolibrary.org/obo/CL_0002306,epithelial cell of proximal tubule,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_0002306,epithelial cell of proximal tubule,http://doi.org/10.1681/ASN.2020010071
+http://purl.obolibrary.org/obo/CL_0000764,erythroid lineage cell,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0000764,erythroid lineage cell,http://doi.org/10.1371/journal.pone.0162209
+http://purl.obolibrary.org/obo/CL_0000057,fibroblast,http://doi.org/10.1007/978-1-4939-0897-4_3
+http://purl.obolibrary.org/obo/CL_0000057,fibroblast,http://doi.org/10.1034/j.1600-065x.2003.00072.x
+http://purl.obolibrary.org/obo/CL_0000057,fibroblast,http://doi.org/10.1111/j.1440-1827.1989.tb02421.x
+http://purl.obolibrary.org/obo/CL_0000442,follicular dendritic cell,http://doi.org/10.1016/j.ajpath.2010.12.039
+http://purl.obolibrary.org/obo/CL_0000442,follicular dendritic cell,http://doi.org/10.1016/j.smim.2007.12.001
+http://purl.obolibrary.org/obo/CL_0000442,follicular dendritic cell,http://doi.org/10.1097/PAI.0b013e318183a8e2
+http://purl.obolibrary.org/obo/CL_0000798,gamma-delta T cell,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0000798,gamma-delta T cell,http://doi.org/10.4049/jimmunol.1303119
+http://purl.obolibrary.org/obo/CL_0000798,gamma-delta T cell,http://doi.org/10.1002/cti2.1079
+http://purl.obolibrary.org/obo/CL_1001005,glomerular capillary endothelial cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1001005,glomerular capillary endothelial cell,http://doi.org/10.1038/s41467-019-12872-5
+http://purl.obolibrary.org/obo/CL_1001005,glomerular capillary endothelial cell,http://doi.org/10.1038/s41586-020-2941-1
+http://purl.obolibrary.org/obo/CL_1001005,glomerular capillary endothelial cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_1000742,glomerular mesangial cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1000742,glomerular mesangial cell,http://doi.org/10.1038/s41586-020-2941-1
+http://purl.obolibrary.org/obo/CL_1000742,glomerular mesangial cell,http://doi.org/10.1073/pnas.2005477117
+http://purl.obolibrary.org/obo/CL_1000742,glomerular mesangial cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_1000742,glomerular mesangial cell,http://doi.org/10.1681/ASN.2020010071
+http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,http://doi.org/10.1038/s41586-020-2941-1
+http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,http://doi.org/10.1073/pnas.2005477117
+http://purl.obolibrary.org/obo/CL_0000653,glomerular visceral epithelial cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_0001067,group 1 innate lymphoid cell,http://doi.org/10.1126/science.aaa6566
+http://purl.obolibrary.org/obo/CL_0001069,group 2 innate lymphoid cell,http://doi.org/10.1038/ni.2584
+http://purl.obolibrary.org/obo/CL_0001069,group 2 innate lymphoid cell,http://doi.org/10.1126/science.aaa6566
+http://purl.obolibrary.org/obo/CL_0001071,group 3 innate lymphoid cell,http://doi.org/10.1038/ncomms11394
+http://purl.obolibrary.org/obo/CL_0001071,group 3 innate lymphoid cell,http://doi.org/10.1126/science.aaa6566
+http://purl.obolibrary.org/obo/CL_0001078,"group 3 innate lymphoid cell, human",http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0001078,"group 3 innate lymphoid cell, human",http://doi.org/10.3389/fimmu.2017.01047
+http://purl.obolibrary.org/obo/CL_0000632,hepatic stellate cell,http://doi.org/10.1002/hep.1840040425
+http://purl.obolibrary.org/obo/CL_0000632,hepatic stellate cell,http://doi.org/10.1038/nm.3282
+http://purl.obolibrary.org/obo/CL_0000632,hepatic stellate cell,http://doi.org/10.1136/gut.2005.078865
+http://purl.obolibrary.org/obo/CL_0000182,hepatocyte,http://doi.org/10.1007/s00424-006-0152-8
+http://purl.obolibrary.org/obo/CL_0000182,hepatocyte,http://doi.org/10.1097/00000478-200110000-00011
+http://purl.obolibrary.org/obo/CL_0002095,hilus cell of ovary,http://doi.org/10.1097/00000478-199805000-00011
+http://purl.obolibrary.org/obo/CL_0000816,immature B cell,http://doi.org/10.3389/fimmu.2012.00302
+http://purl.obolibrary.org/obo/CL_0000816,immature B cell,http://doi.org/10.3389/fimmu.2012.00302
+http://purl.obolibrary.org/obo/CL_0000914,immature NK T cell,http://doi.org/10.1002/eji.200425958
+http://purl.obolibrary.org/obo/CL_0000914,immature NK T cell,http://doi.org/10.1111/cei.12045
+http://purl.obolibrary.org/obo/CL_0000914,immature NK T cell,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0000840,immature conventional dendritic cell,http://doi.org/10.1182/blood-2004-02-0769
+http://purl.obolibrary.org/obo/CL_0000840,immature conventional dendritic cell,http://doi.org/10.1182/blood-2004-02-0769
+http://purl.obolibrary.org/obo/CL_0009016,intestinal crypt stem cell of large intestine,http://doi.org/10.1038/nature06196
+http://purl.obolibrary.org/obo/CL_0019032,intestinal tuft cell,http://doi.org/10.1038/s41598-019-53997-3
+http://purl.obolibrary.org/obo/CL_0019032,intestinal tuft cell,http://doi.org/10.1038/s42003-020-01181-z
+http://purl.obolibrary.org/obo/CL_0019032,intestinal tuft cell,http://doi.org/10.4049/jimmunol.1801069
+http://purl.obolibrary.org/obo/CL_0002565,iris pigment epithelial cell,http://doi.org/10.3390/cell7110210
+http://purl.obolibrary.org/obo/CL_0000312,keratinocyte,http://doi.org/10.1083/jcb.200603161
+http://purl.obolibrary.org/obo/CL_0000312,keratinocyte,http://doi.org/10.1146/annurev.cb.11.110195.001011
+http://purl.obolibrary.org/obo/CL_0002337,keratinocyte stem cell,http://doi.org/10.1002/jcp.22275
+http://purl.obolibrary.org/obo/CL_0002337,keratinocyte stem cell,http://doi.org/10.1038/labinvest.2009.48
+http://purl.obolibrary.org/obo/CL_0002363,keratocyte,http://doi.org/10.1111/jcmm.13270
+http://purl.obolibrary.org/obo/CL_1001096,kidney afferent arteriole endothelial cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1001096,kidney afferent arteriole endothelial cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_1000454,kidney collecting duct epithelial cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1000454,kidney collecting duct epithelial cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_1000454,kidney collecting duct epithelial cell,http://doi.org/10.1681/ASN.2020010071
+http://purl.obolibrary.org/obo/CL_1001432,kidney collecting duct intercalated cell,http://doi.org/10.1016/j.devcel.2019.10.005
+http://purl.obolibrary.org/obo/CL_1001432,kidney collecting duct intercalated cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1001432,kidney collecting duct intercalated cell,http://doi.org/10.1038/s41586-020-2941-1
+http://purl.obolibrary.org/obo/CL_1001432,kidney collecting duct intercalated cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_1001431,kidney collecting duct principal cell,http://doi.org/10.1016/j.devcel.2019.10.005
+http://purl.obolibrary.org/obo/CL_1001431,kidney collecting duct principal cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1001431,kidney collecting duct principal cell,http://doi.org/10.1038/s41586-020-2941-1
+http://purl.obolibrary.org/obo/CL_1001431,kidney collecting duct principal cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_1000768,kidney connecting tubule epithelial cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1000768,kidney connecting tubule epithelial cell,http://doi.org/10.1681/ASN.2020010071
+http://purl.obolibrary.org/obo/CL_1000715,kidney cortex collecting duct intercalated cell,http://doi.org/10.1016/j.devcel.2019.10.005
+http://purl.obolibrary.org/obo/CL_1000715,kidney cortex collecting duct intercalated cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1000715,kidney cortex collecting duct intercalated cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_1000715,kidney cortex collecting duct intercalated cell,http://doi.org/10.1016/j.devcel.2019.10.005
+http://purl.obolibrary.org/obo/CL_1000715,kidney cortex collecting duct intercalated cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1000715,kidney cortex collecting duct intercalated cell,http://doi.org/10.1126/science.aat1699
+http://purl.obolibrary.org/obo/CL_1000715,kidney cortex collecting duct intercalated cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_1000714,kidney cortex collecting duct principal cell,http://doi.org/10.1016/j.devcel.2019.10.005
+http://purl.obolibrary.org/obo/CL_1000714,kidney cortex collecting duct principal cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1000714,kidney cortex collecting duct principal cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_1000849,kidney distal convoluted tubule epithelial cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1000849,kidney distal convoluted tubule epithelial cell,http://doi.org/10.1681/ASN.2020010071
+http://purl.obolibrary.org/obo/CL_1001099,kidney efferent arteriole endothelial cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1001099,kidney efferent arteriole endothelial cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_0000648,kidney granular cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_0000648,kidney granular cell,http://doi.org/10.1073/pnas.2005477117
+http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct principal cell,http://doi.org/10.1016/j.devcel.2019.10.005
+http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct principal cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct principal cell,http://doi.org/10.1101/2021.07.28.454201
+http://purl.obolibrary.org/obo/CL_1000718,kidney inner medulla collecting duct principal cell,http://doi.org/10.1681/ASN.2020010071
+http://purl.obolibrary.org/obo/CL_1000692,kidney interstitial fibroblast,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1000692,kidney interstitial fibroblast,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_1000691,kidney interstitial myofibroblast,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1000691,kidney interstitial myofibroblast,http://doi.org/10.1038/s41586-020-2941-1
+http://purl.obolibrary.org/obo/CL_1001109,kidney loop of Henle cortical thick ascending limb epithelial cell,http://doi.org/10.1016/j.devcel.2019.10.005
+http://purl.obolibrary.org/obo/CL_1001109,kidney loop of Henle cortical thick ascending limb epithelial cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1001109,kidney loop of Henle cortical thick ascending limb epithelial cell,http://doi.org/10.1681/ASN.2020010071
+http://purl.obolibrary.org/obo/CL_1001108,kidney loop of Henle medullary thick ascending limb epithelial cell,http://doi.org/10.1016/j.devcel.2019.10.005
+http://purl.obolibrary.org/obo/CL_1001108,kidney loop of Henle medullary thick ascending limb epithelial cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1001108,kidney loop of Henle medullary thick ascending limb epithelial cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_1001108,kidney loop of Henle medullary thick ascending limb epithelial cell,http://doi.org/10.1681/ASN.2020010071
+http://purl.obolibrary.org/obo/CL_1001106,kidney loop of Henle thick ascending limb epithelial cell,http://doi.org/10.1016/j.devcel.2019.10.005
+http://purl.obolibrary.org/obo/CL_1001106,kidney loop of Henle thick ascending limb epithelial cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1001106,kidney loop of Henle thick ascending limb epithelial cell,http://doi.org/10.1038/s41586-020-2941-1
+http://purl.obolibrary.org/obo/CL_1001106,kidney loop of Henle thick ascending limb epithelial cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_1001106,kidney loop of Henle thick ascending limb epithelial cell,http://doi.org/10.1681/ASN.2020010071
+http://purl.obolibrary.org/obo/CL_1001107,kidney loop of Henle thin ascending limb epithelial cell,http://doi.org/10.1016/j.devcel.2019.10.005
+http://purl.obolibrary.org/obo/CL_1001107,kidney loop of Henle thin ascending limb epithelial cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1001111,kidney loop of Henle thin descending limb epithelial cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1001111,kidney loop of Henle thin descending limb epithelial cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_1001111,kidney loop of Henle thin descending limb epithelial cell,http://doi.org/10.1681/ASN.2020010071
+http://purl.obolibrary.org/obo/CL_1000717,kidney outer medulla collecting duct intercalated cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1000717,kidney outer medulla collecting duct intercalated cell,http://doi.org/10.1126/science.aat1699
+http://purl.obolibrary.org/obo/CL_1000716,kidney outer medulla collecting duct principal cell,http://doi.org/10.1016/j.devcel.2019.10.005
+http://purl.obolibrary.org/obo/CL_1000716,kidney outer medulla collecting duct principal cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1000716,kidney outer medulla collecting duct principal cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_1000698,kidney resident macrophage,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1000698,kidney resident macrophage,http://doi.org/10.1038/s41586-020-2941-1
+http://purl.obolibrary.org/obo/CL_1000698,kidney resident macrophage,http://doi.org/10.1126/science.aat5031
+http://purl.obolibrary.org/obo/CL_1000321,large intestine crypt goblet cell,http://doi.org/10.1038/s42003-020-01181-z
+http://purl.obolibrary.org/obo/CL_0011004,lens fiber cell,http://doi.org/10.1167/iovs.15-18117
+http://purl.obolibrary.org/obo/CL_0002340,luminal cell of prostate epithelium,http://doi.org/10.1002/path.5751
+http://purl.obolibrary.org/obo/CL_0000888,lymph node tingible body macrophage,http://doi.org/10.1111/cas.13137
+http://purl.obolibrary.org/obo/CL_0009018,lymphocyte of large intestine lamina propria,http://doi.org/10.1007/978-1-4939-0897-4_3
+http://purl.obolibrary.org/obo/CL_0009018,lymphocyte of large intestine lamina propria,http://doi.org/10.1016/j.immuni.2020.02.001
+http://purl.obolibrary.org/obo/CL_0009018,lymphocyte of large intestine lamina propria,http://doi.org/10.1016/j.immuni.2020.02.001
+http://purl.obolibrary.org/obo/CL_0009018,lymphocyte of large intestine lamina propria,http://doi.org/10.1007/978-1-4939-0897-4_3
+http://purl.obolibrary.org/obo/CL_0009018,lymphocyte of large intestine lamina propria,http://doi.org/10.1016/j.immuni.2020.02.001
+http://purl.obolibrary.org/obo/CL_0009018,lymphocyte of large intestine lamina propria,http://doi.org/10.1007/978-1-4939-0897-4_3
+http://purl.obolibrary.org/obo/CL_0009018,lymphocyte of large intestine lamina propria,http://doi.org/10.1016/j.immuni.2020.02.001
+http://purl.obolibrary.org/obo/CL_0009018,lymphocyte of large intestine lamina propria,http://doi.org/10.1016/j.immuni.2020.02.001
+http://purl.obolibrary.org/obo/CL_0009018,lymphocyte of large intestine lamina propria,http://doi.org/10.1007/978-1-4939-0897-4_3
+http://purl.obolibrary.org/obo/CL_0009018,lymphocyte of large intestine lamina propria,http://doi.org/10.1016/j.immuni.2020.02.001
+http://purl.obolibrary.org/obo/CL_0009018,lymphocyte of large intestine lamina propria,http://doi.org/10.1016/j.immuni.2020.02.001
+http://purl.obolibrary.org/obo/CL_0000235,macrophage,http://doi.org/10.1053/j.semdp.2017.11.002
+http://purl.obolibrary.org/obo/CL_0000235,macrophage,http://doi.org/10.1097/01.pas.0000157940.80538.ec
+http://purl.obolibrary.org/obo/CL_0000235,macrophage,http://doi.org/10.1182/blood-2008-06-165266
+http://purl.obolibrary.org/obo/CL_0000235,macrophage,http://doi.org/10.1111/cas.13137
+http://purl.obolibrary.org/obo/CL_0000235,macrophage,http://doi.org/10.1182/blood-2008-06-165266
+http://purl.obolibrary.org/obo/CL_0000235,macrophage,http://doi.org/10.1182/blood.v97.1.288
+http://purl.obolibrary.org/obo/CL_0000235,macrophage,http://doi.org/10.1182/blood-2008-06-165266
+http://purl.obolibrary.org/obo/CL_0000235,macrophage,http://doi.org/10.1007/978-1-4939-0897-4_3
+http://purl.obolibrary.org/obo/CL_0000235,macrophage,http://doi.org/10.1016/j.immuni.2020.02.001
+http://purl.obolibrary.org/obo/CL_1000850,macula densa epithelial cell,http://doi.org/10.1016/j.devcel.2019.10.005
+http://purl.obolibrary.org/obo/CL_1000850,macula densa epithelial cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1000850,macula densa epithelial cell,http://doi.org/10.1681/ASN.2020010071
+http://purl.obolibrary.org/obo/CL_0000097,mast cell,http://doi.org/10.1016/j.immuni.2020.02.001
+http://purl.obolibrary.org/obo/CL_0000097,mast cell,http://doi.org/10.1097/00000478-199003000-00010
+http://purl.obolibrary.org/obo/CL_0000097,mast cell,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0000097,mast cell,http://doi.org/10.1016/j.beha.2010.07.003.
+http://purl.obolibrary.org/obo/CL_0000097,mast cell,http://doi.org/10.1016/j.iac.2014.01.005
+http://purl.obolibrary.org/obo/CL_0000097,mast cell,http://doi.org/10.3389/fimmu.2020.01234
+http://purl.obolibrary.org/obo/CL_0000097,mast cell,http://doi.org/10.1016/S1081-1206(10)62853-0
+http://purl.obolibrary.org/obo/CL_0000097,mast cell,http://doi.org/10.1111/imr.12639
+http://purl.obolibrary.org/obo/CL_0000097,mast cell,http://doi.org/10.1159/000053694.
+http://purl.obolibrary.org/obo/CL_0000097,mast cell,http://doi.org/10.1016/S1081-1206(10)62853-0
+http://purl.obolibrary.org/obo/CL_0000097,mast cell,http://doi.org/10.1111/imr.12639.
+http://purl.obolibrary.org/obo/CL_0000097,mast cell,http://doi.org/10.1159/000053694
+http://purl.obolibrary.org/obo/CL_0000097,mast cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_0000097,mast cell,http://doi.org/10.1038/s41586-020-2941-1
+http://purl.obolibrary.org/obo/CL_0000097,mast cell,http://doi.org/10.1101/2021.07.28.454201
+http://purl.obolibrary.org/obo/CL_0000097,mast cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_0002436,mature CD4 single-positive thymocyte,http://doi.org/10.1038/s41467-021-21346-6
+http://purl.obolibrary.org/obo/CL_0002436,mature CD4 single-positive thymocyte,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0002436,mature CD4 single-positive thymocyte,http://doi.org/10.3389/fimmu.2019.00447
+http://purl.obolibrary.org/obo/CL_0002436,mature CD4 single-positive thymocyte,http://doi.org/10.1172/JCI7558.
+http://purl.obolibrary.org/obo/CL_0002437,mature CD8 single-positive thymocyte,http://doi.org/10.1038/s41467-021-21346-6
+http://purl.obolibrary.org/obo/CL_0002437,mature CD8 single-positive thymocyte,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0002437,mature CD8 single-positive thymocyte,http://doi.org/10.3389/fimmu.2019.00447
+http://purl.obolibrary.org/obo/CL_0002437,mature CD8 single-positive thymocyte,http://doi.org/10.1172/JCI7558.
+http://purl.obolibrary.org/obo/CL_0000814,mature NK T cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_0000814,mature NK T cell,http://doi.org/10.1038/s41586-020-2941-1
+http://purl.obolibrary.org/obo/CL_0000814,mature NK T cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_0000041,mature eosinophil,http://doi.org/10.1016/j.immuni.2020.02.001
+http://purl.obolibrary.org/obo/CL_0000096,mature neutrophil,http://doi.org/10.1016/j.immuni.2020.02.001
+http://purl.obolibrary.org/obo/CL_0000556,megakaryocyte,http://doi.org/10.1182/bloodadvances.2020002843
+http://purl.obolibrary.org/obo/CL_0000050,megakaryocyte-erythroid progenitor cell,http://doi.org/10.1038/ni.1889
+http://purl.obolibrary.org/obo/CL_1000458,melanocyte of skin,http://doi.org/10.1034/j.1600-0854.2002.30909.x
+http://purl.obolibrary.org/obo/CL_1000458,melanocyte of skin,http://doi.org/10.1038/s41586-020-2785-8
+http://purl.obolibrary.org/obo/CL_1000458,melanocyte of skin,http://doi.org/10.1046/j.1365-2133.1997.17651853.x
+http://purl.obolibrary.org/obo/CL_1000458,melanocyte of skin,http://doi.org/10.1074/jbc.m309036200
+http://purl.obolibrary.org/obo/CL_0000787,memory B cell,http://doi.org/10.1002/jcla.20001
+http://purl.obolibrary.org/obo/CL_0000787,memory B cell,http://doi.org/10.1002/jcla.20001
+http://purl.obolibrary.org/obo/CL_0000576,monocyte,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0000576,monocyte,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_0000576,monocyte,http://doi.org/10.1038/s41586-020-2941-1
+http://purl.obolibrary.org/obo/CL_0000576,monocyte,http://doi.org/10.1126/science.aat5031
+http://purl.obolibrary.org/obo/CL_0000940,mucosal invariant T cell,http://doi.org/10.1038/ni.3565.
+http://purl.obolibrary.org/obo/CL_1000417,myoepithelial cell of sweat gland,http://doi.org/10.1046/j.1365-2133.1997.17651853.x
+http://purl.obolibrary.org/obo/CL_1000417,myoepithelial cell of sweat gland,http://doi.org/10.1097/DAD.0000000000000431
+http://purl.obolibrary.org/obo/CL_1000417,myoepithelial cell of sweat gland,http://doi.org/10.1247/csf.14009
+http://purl.obolibrary.org/obo/CL_1000417,myoepithelial cell of sweat gland,http://doi.org/10.1046/j.1365-2133.1997.17651853.x
+http://purl.obolibrary.org/obo/CL_1000417,myoepithelial cell of sweat gland,http://doi.org/10.1111/1523-1747.ep12277180
+http://purl.obolibrary.org/obo/CL_1000417,myoepithelial cell of sweat gland,http://doi.org/10.1111/exd.12773
+http://purl.obolibrary.org/obo/CL_1000417,myoepithelial cell of sweat gland,http://doi.org/10.1046/j.0022-202x.2001.00005.x
+http://purl.obolibrary.org/obo/CL_1000417,myoepithelial cell of sweat gland,http://doi.org/10.1083/jcb.95.2.580
+http://purl.obolibrary.org/obo/CL_1000417,myoepithelial cell of sweat gland,http://doi.org/10.1097/DAD.0000000000000306
+http://purl.obolibrary.org/obo/CL_0000186,myofibroblast cell,http://doi.org/10.1002/ar.1091830404
+http://purl.obolibrary.org/obo/CL_0000788,naive B cell,http://doi.org/10.1038/s41467-019-12464-3
+http://purl.obolibrary.org/obo/CL_0000788,naive B cell,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0000788,naive B cell,http://doi.org/10.1126/sciimmunol.aah4447
+http://purl.obolibrary.org/obo/CL_0000788,naive B cell,http://doi.org/10.1038/s41467-019-12464-3
+http://purl.obolibrary.org/obo/CL_0002677,naive regulatory T cell,http://doi.org/10.1038/nature03886
+http://purl.obolibrary.org/obo/CL_0002677,naive regulatory T cell,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0002677,naive regulatory T cell,http://doi.org/10.3389/fimmu.2019.00447
+http://purl.obolibrary.org/obo/CL_0000895,"naive thymus-derived CD4-positive, alpha-beta T cell",http://doi.org/10.4049/jimmunol.1701025
+http://purl.obolibrary.org/obo/CL_0000900,"naive thymus-derived CD8-positive, alpha-beta T cell",http://doi.org/10.1002/cyto.a.20643
+http://purl.obolibrary.org/obo/CL_0000623,natural killer cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_0000623,natural killer cell,http://doi.org/10.1038/s41586-020-2941-1
+http://purl.obolibrary.org/obo/CL_0000623,natural killer cell,http://doi.org/10.1126/science.aat5031
+http://purl.obolibrary.org/obo/CL_0000623,natural killer cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_0000623,natural killer cell,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0000623,natural killer cell,http://doi.org/10.4049/jimmunol.166.4.2194
+http://purl.obolibrary.org/obo/CL_0000623,natural killer cell,http://doi.org/10.3389/fimmu.2019.01502
+http://purl.obolibrary.org/obo/CL_0000623,natural killer cell,http://doi.org/10.1038/nri.2016.34
+http://purl.obolibrary.org/obo/CL_0000623,natural killer cell,http://doi.org/10.1016/j.jaci.2009.11.020
+http://purl.obolibrary.org/obo/CL_0000623,natural killer cell,http://doi.org/10.1016/s1471-4906(01)02060-9
+http://purl.obolibrary.org/obo/CL_0000165,neuroendocrine cell,http://doi.org/10.1159/000501521
+http://purl.obolibrary.org/obo/CL_0000165,neuroendocrine cell,http://doi.org/10.1159/000501521
+http://purl.obolibrary.org/obo/CL_0000165,neuroendocrine cell,http://doi.org/10.3892/or.2012.2119
+http://purl.obolibrary.org/obo/CL_0000540,neuron,http://doi.org/10.1016/S0065-1281(97)80024-4
+http://purl.obolibrary.org/obo/CL_0000540,neuron,http://doi.org/10.1016/j.pneurobio.2009.10.020
+http://purl.obolibrary.org/obo/CL_0000540,neuron,http://doi.org/10.1212/WNL.0000000000001773
+http://purl.obolibrary.org/obo/CL_0000540,neuron,http://doi.org/10.14670/HH-11-610
+http://purl.obolibrary.org/obo/CL_0000775,neutrophil,http://doi.org/10.1016/j.exphem.2016.10.008
+http://purl.obolibrary.org/obo/CL_0000775,neutrophil,http://doi.org/10.1038/s41586-020-2941-1
+http://purl.obolibrary.org/obo/CL_0000775,neutrophil,http://doi.org/10.1101/2021.07.28.454201
+http://purl.obolibrary.org/obo/CL_0000775,neutrophil,http://doi.org/10.1126/science.aat5031
+http://purl.obolibrary.org/obo/CL_0000775,neutrophil,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_0000775,neutrophil,http://doi.org/10.1111/1523-1747.ep12506462
+http://purl.obolibrary.org/obo/CL_0000775,neutrophil,http://doi.org/10.1172/JCI124616
+http://purl.obolibrary.org/obo/CL_0000775,neutrophil,http://doi.org/10.4049/jimmunol.181.5.3628
+http://purl.obolibrary.org/obo/CL_0000875,non-classical monocyte,http://doi.org/10.1101/2021.07.28.454201
+http://purl.obolibrary.org/obo/CL_0000875,non-classical monocyte,http://doi.org/10.1126/science.aat5031
+http://purl.obolibrary.org/obo/CL_0000875,non-classical monocyte,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_0000875,non-classical monocyte,http://doi.org/10.3389/fimmu.2019.02035
+http://purl.obolibrary.org/obo/CL_0011107,obsolete Muller cell,http://doi.org/10.1016/j.ophtha.2017.09.016
+http://purl.obolibrary.org/obo/CL_0009009,paneth cell of colon,http://doi.org/10.1016/j.humpath.2008.12.003
+http://purl.obolibrary.org/obo/CL_1000344,paneth cell of epithelium proper of small intestine,http://doi.org/10.1016/j.celrep.2021.108819
+http://purl.obolibrary.org/obo/CL_1000452,parietal epithelial cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1000452,parietal epithelial cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_0000669,pericyte cell,http://doi.org/10.1016/j.jchemneu.2018.06.001
+http://purl.obolibrary.org/obo/CL_0000669,pericyte cell,http://doi.org/10.1083/jcb.113.1.147
+http://purl.obolibrary.org/obo/CL_0000669,pericyte cell,http://doi.org/10.1186/s12929-018-0423-7
+http://purl.obolibrary.org/obo/CL_0000669,pericyte cell,http://doi.org/10.1007/978-1-4939-0897-4_3
+http://purl.obolibrary.org/obo/CL_0000669,pericyte cell,http://doi.org/10.1007/978-1-4939-0897-4_3
+http://purl.obolibrary.org/obo/CL_0000669,pericyte cell,http://doi.org/10.1152/ajpgi.00432.2011
+http://purl.obolibrary.org/obo/CL_0000669,pericyte cell,http://doi.org/10.3389/fcvm.2020.00052
+http://purl.obolibrary.org/obo/CL_0019026,periportal region hepatocyte,http://doi.org/10.1038/s42255-019-0109-9
+http://purl.obolibrary.org/obo/CL_0019026,periportal region hepatocyte,http://doi.org/10.1053/j.gastro.2009.02.063
+http://purl.obolibrary.org/obo/CL_1001033,peritubular capillary endothelial cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1001033,peritubular capillary endothelial cell,http://doi.org/10.1038/s41467-019-12872-5
+http://purl.obolibrary.org/obo/CL_1001033,peritubular capillary endothelial cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_0002303,pigmented ciliary epithelial cell,http://doi.org/10.3390/cell7110210
+http://purl.obolibrary.org/obo/CL_0000786,plasma cell,http://doi.org/10.1080/01926230600865549
+http://purl.obolibrary.org/obo/CL_0000786,plasma cell,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0000786,plasma cell,http://doi.org/10.1126/sciimmunol.aah4447
+http://purl.obolibrary.org/obo/CL_0000786,plasma cell,http://doi.org/10.1073/pnas.172384399
+http://purl.obolibrary.org/obo/CL_0000786,plasma cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_0000786,plasma cell,http://doi.org/10.1038/s41586-020-2941-1
+http://purl.obolibrary.org/obo/CL_0000786,plasma cell,http://doi.org/10.1101/2021.07.28.454201
+http://purl.obolibrary.org/obo/CL_0000786,plasma cell,http://doi.org/10.1126/science.aat5031
+http://purl.obolibrary.org/obo/CL_0000786,plasma cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_0000980,plasmablast,http://doi.org/10.1080/01926230600865549
+http://purl.obolibrary.org/obo/CL_0000980,plasmablast,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0001058,"plasmacytoid dendritic cell, human",http://doi.org/10.1111/bjh.14467
+http://purl.obolibrary.org/obo/CL_0001058,"plasmacytoid dendritic cell, human",http://doi.org/10.1016/S0002-9440(10)61694-X
+http://purl.obolibrary.org/obo/CL_0001058,"plasmacytoid dendritic cell, human",http://doi.org/10.1097/pap.0b013e3181bb6bc2
+http://purl.obolibrary.org/obo/CL_0001058,"plasmacytoid dendritic cell, human",http://doi.org/10.1111/bjh.14467
+http://purl.obolibrary.org/obo/CL_0001058,"plasmacytoid dendritic cell, human",http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_0001058,"plasmacytoid dendritic cell, human",http://doi.org/10.1101/2021.07.28.454201
+http://purl.obolibrary.org/obo/CL_0000817,precursor B cell,http://doi.org/10.1016/j.exphem.2018.09.004
+http://purl.obolibrary.org/obo/CL_0000649,prickle cell,http://doi.org/10.1038/jid.1952.87
+http://purl.obolibrary.org/obo/CL_0000649,prickle cell,http://doi.org/10.1083/jcb.200603161
+http://purl.obolibrary.org/obo/CL_0000826,pro-B cell,http://doi.org/10.1073/pnas.172384399
+http://purl.obolibrary.org/obo/CL_2000059,prostate gland microvascular endothelial cell,http://doi.org/10.1002/path.5751
+http://purl.obolibrary.org/obo/CL_0000815,regulatory T cell,http://doi.org/10.1111/1523-1747.ep12470172
+http://purl.obolibrary.org/obo/CL_0000815,regulatory T cell,http://doi.org/10.1111/imm.12791
+http://purl.obolibrary.org/obo/CL_0000815,regulatory T cell,http://doi.org/10.4049/jimmunol.1701025
+http://purl.obolibrary.org/obo/CL_0002201,renal beta-intercalated cell,http://doi.org/10.1016/j.devcel.2019.10.005
+http://purl.obolibrary.org/obo/CL_0002201,renal beta-intercalated cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_0002201,renal beta-intercalated cell,http://doi.org/10.1126/science.aat1699
+http://purl.obolibrary.org/obo/CL_0002201,renal beta-intercalated cell,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_1001318,renal interstitial pericyte,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1001318,renal interstitial pericyte,http://doi.org/10.1038/s41586-020-2941-1
+http://purl.obolibrary.org/obo/CL_1001318,renal interstitial pericyte,http://doi.org/10.1073/pnas.2005477117
+http://purl.obolibrary.org/obo/CL_1001318,renal interstitial pericyte,http://doi.org/10.1172/jci.insight.133267
+http://purl.obolibrary.org/obo/CL_0000745,retina horizontal cell,http://doi.org/10.1016/j.exer.2016.01.002
+http://purl.obolibrary.org/obo/CL_0000745,retina horizontal cell,http://doi.org/10.1016/j.preteyeres.2020.100844
+http://purl.obolibrary.org/obo/CL_0000748,retinal bipolar neuron,http://doi.org/10.1016/j.brainres.2007.06.007
+http://purl.obolibrary.org/obo/CL_0000748,retinal bipolar neuron,http://doi.org/10.1016/j.cell.2019.01.004
+http://purl.obolibrary.org/obo/CL_0000748,retinal bipolar neuron,http://doi.org/10.1016/j.exer.2016.01.002
+http://purl.obolibrary.org/obo/CL_0000573,retinal cone cell,http://doi.org/10.1016/j.exer.2016.01.002
+http://purl.obolibrary.org/obo/CL_0000573,retinal cone cell,http://doi.org/10.1016/j.ophtha.2017.09.016
+http://purl.obolibrary.org/obo/CL_0000740,retinal ganglion cell,http://doi.org/10.1016/j.cell.2019.01.004
+http://purl.obolibrary.org/obo/CL_0000740,retinal ganglion cell,http://doi.org/10.1017/S0952523819000087
+http://purl.obolibrary.org/obo/CL_0002586,retinal pigment epithelial cell,http://doi.org/10.1016/j.ophtha.2017.09.016
+http://purl.obolibrary.org/obo/CL_0002586,retinal pigment epithelial cell,http://doi.org/10.1083/jcb.147.7.1533
+http://purl.obolibrary.org/obo/CL_0000604,retinal rod cell,http://doi.org/10.1016/j.cell.2019.01.004
+http://purl.obolibrary.org/obo/CL_0000604,retinal rod cell,http://doi.org/10.1016/j.exer.2016.01.002
+http://purl.obolibrary.org/obo/CL_0000151,secretory cell,http://doi.org/10.1016/j.bbagen.2013.05.016
+http://purl.obolibrary.org/obo/CL_0000151,secretory cell,http://doi.org/10.1016/j.biocel.2009.11.017
+http://purl.obolibrary.org/obo/CL_0000151,secretory cell,http://doi.org/10.4161/derm.1.2.8736
+http://purl.obolibrary.org/obo/CL_0002620,skin fibroblast,http://doi.org/10.1016/j.tcb.2014.10.001
+http://purl.obolibrary.org/obo/CL_0002620,skin fibroblast,http://doi.org/10.1074/jbc.M701586200
+http://purl.obolibrary.org/obo/CL_0002620,skin fibroblast,http://doi.org/10.1097/00000372-199606000-00008
+http://purl.obolibrary.org/obo/CL_0002620,skin fibroblast,http://doi.org/10.1111/j.1365-2133.1989.tb15509.x
+http://purl.obolibrary.org/obo/CL_1000279,smooth muscle cell of large intestine,http://doi.org/10.1007/978-1-4939-0897-4_3
+http://purl.obolibrary.org/obo/CL_1000487,smooth muscle cell of prostate,http://doi.org/10.1002/path.5751
+http://purl.obolibrary.org/obo/CL_0000241,stratified cuboidal epithelial cell,http://doi.org/10.1111/j.1365-2559.2009.03391.x
+http://purl.obolibrary.org/obo/CL_0002521,subcutaneous fat cell,http://doi.org/10.1016/j.humpath.2005.11.006
+http://purl.obolibrary.org/obo/CL_0002521,subcutaneous fat cell,http://doi.org/10.1101/cshperspect.a015271
+http://purl.obolibrary.org/obo/CL_0002521,subcutaneous fat cell,http://doi.org/10.1155/2010/790431
+http://purl.obolibrary.org/obo/CL_0011103,sympathetic neuron,http://doi.org/10.1046/j.1469-7580.1999.19410143.x
+http://purl.obolibrary.org/obo/CL_3000002,sympathetic noradrenergic neuron,http://doi.org/10.3892/ijmm.2014.1709
+http://purl.obolibrary.org/obo/CL_0000883,thymic cortical macrophage,http://doi.org/10.1016/s0065-2776(08)60900-1
+http://purl.obolibrary.org/obo/CL_0000866,thymic macrophage,http://doi.org/10.1016/j.imbio.2008.07.032
+http://purl.obolibrary.org/obo/CL_0000866,thymic macrophage,http://doi.org/10.1016/s0065-2776(08)60900-1
+http://purl.obolibrary.org/obo/CL_0000866,thymic macrophage,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0000942,thymic plasmacytoid dendritic cell,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0000942,thymic plasmacytoid dendritic cell,http://doi.org/10.1172/JCI11734.
+http://purl.obolibrary.org/obo/CL_0000942,thymic plasmacytoid dendritic cell,http://doi.org/10.1182/blood-2008-11-187633
+http://purl.obolibrary.org/obo/CL_0009011,transit amplifying cell of colon,http://doi.org/10.1038/s42003-020-01181-z
+http://purl.obolibrary.org/obo/CL_0000818,transitional stage B cell,http://doi.org/10.1073/pnas.172384399
+http://purl.obolibrary.org/obo/CL_0000818,transitional stage B cell,http://doi.org/10.1073/pnas.172384399
+http://purl.obolibrary.org/obo/CL_0002292,type I cell of carotid body,http://doi.org/10.1016/j.acthis.2015.07.007
+http://purl.obolibrary.org/obo/CL_0002292,type I cell of carotid body,http://doi.org/10.1016/j.cmet.2015.09.004
+http://purl.obolibrary.org/obo/CL_0002062,type I pneumocyte,http://doi.org/10.1177/002215549904700202
+http://purl.obolibrary.org/obo/CL_0002063,type II pneumocyte,http://doi.org/10.1177/002215549904700202
+http://purl.obolibrary.org/obo/CL_0000970,unswitched memory B cell,http://doi.org/10.1080/01926230600865549
+http://purl.obolibrary.org/obo/CL_0000970,unswitched memory B cell,http://doi.org/10.1126/science.aay3224
+http://purl.obolibrary.org/obo/CL_0000970,unswitched memory B cell,http://doi.org/10.1126/sciimmunol.aah4447
+http://purl.obolibrary.org/obo/CL_1001131,vasa recta ascending limb cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1001131,vasa recta ascending limb cell,http://doi.org/10.1038/s41467-019-12872-5
+http://purl.obolibrary.org/obo/CL_1001131,vasa recta ascending limb cell,http://doi.org/10.1038/s41586-020-2941-1
+http://purl.obolibrary.org/obo/CL_1001131,vasa recta ascending limb cell,http://doi.org/10.1101/2021.07.28.454201
+http://purl.obolibrary.org/obo/CL_1001285,vasa recta descending limb cell,http://doi.org/10.1038/s41467-019-10861-2
+http://purl.obolibrary.org/obo/CL_1001285,vasa recta descending limb cell,http://doi.org/10.1038/s41467-019-12872-5
+http://purl.obolibrary.org/obo/CL_1001285,vasa recta descending limb cell,http://doi.org/10.1101/2021.07.28.454201
+http://purl.obolibrary.org/obo/CL_0000359,vascular associated smooth muscle cell,http://doi.org/10.1002/biot.201200199
+http://purl.obolibrary.org/obo/CL_0000359,vascular associated smooth muscle cell,http://doi.org/10.1002/biot.201200199
+http://purl.obolibrary.org/obo/CL_0000359,vascular associated smooth muscle cell,http://doi.org/10.1083/jcb.113.1.147
+http://purl.obolibrary.org/obo/CL_0002543,vein endothelial cell,http://doi.org/10.1038/srep44356

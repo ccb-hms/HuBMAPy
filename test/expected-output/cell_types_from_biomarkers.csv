@@ -1,4 +1,4 @@
-ct,ct_lbl,as,as_lbl
+cell_type,cell_type_label,anatomical_structure,anatomical_structure_label
 http://purl.obolibrary.org/obo/CL_0000682,M cell of gut,http://purl.obolibrary.org/obo/UBERON_0000059,large intestine
 http://purl.obolibrary.org/obo/CL_0000682,M cell of gut,http://purl.obolibrary.org/obo/UBERON_0000159,anal canal
 http://purl.obolibrary.org/obo/CL_0000682,M cell of gut,http://purl.obolibrary.org/obo/UBERON_0000314,cecum mucosa

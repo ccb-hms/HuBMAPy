@@ -6,17 +6,17 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX dc: <http://purl.org/dc/terms/>
 PREFIX hgnc: <http://identifiers.org/hgnc/>
 
-SELECT DISTINCT ?ct_lbl ?as_lbl ?marker ?marker_lbl WHERE {
+SELECT DISTINCT ?cell_type_label ?anatomical_structure_label ?marker ?marker_label WHERE {
     ?cell_type rdfs:subClassOf [
         owl:onProperty obo:RO_0015004 ;
         owl:someValuesFrom ?marker_set ] ;
-        rdfs:label ?ct_lbl ;
+        rdfs:label ?cell_type_label ;
         ccf:ccf_located_in ?anatomical_structure .
-    ?anatomical_structure rdfs:label ?as_lbl .
+    ?anatomical_structure rdfs:label ?anatomical_structure_label .
     ?marker_set owl:intersectionOf ?list .
     ?list rdf:rest*/rdf:first [
         owl:onProperty ccf:has_marker_component ;
         owl:someValuesFrom ?marker ] .
-        ?marker rdfs:label ?marker_lbl
+        ?marker rdfs:label ?marker_label
 }
-ORDER BY ?marker_lbl
+ORDER BY ?marker_label

@@ -1,4 +1,4 @@
-as,as_lbl,donor,donor_sex
+anatomical_structure,anatomical_structure_label,donor,donor_sex
 http://purl.org/sig/ont/fma/fma7385,Left apical bronchopulmonary segment,https://gtexportal.org/home/tissue/Lung#MDonors,male
 http://purl.org/sig/ont/fma/fma7426,Left apical segmental bronchus,https://gtexportal.org/home/tissue/Lung#MDonors,male
 http://purl.org/sig/ont/fma/fma7386,Left posterior bronchopulmonary segment,https://gtexportal.org/home/tissue/Lung#MDonors,male

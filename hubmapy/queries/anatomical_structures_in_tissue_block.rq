@@ -6,11 +6,11 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX dc: <http://purl.org/dc/terms/>
 PREFIX hgnc: <http://identifiers.org/hgnc/>
 
-SELECT ?as ?as_lbl ?donor ?donor_sex WHERE {
+SELECT ?anatomical_structure ?anatomical_structure_label ?donor ?donor_sex WHERE {
     ?tissue_block rdf:type ccf:tissue_block ;
-        ccf:has_registration_location [ ccf:collides_with ?as ] ;
+        ccf:has_registration_location [ ccf:collides_with ?anatomical_structure ] ;
         ccf:comes_from ?donor .
-    OPTIONAL { ?as rdfs:label ?as_lbl }
+    OPTIONAL { ?anatomical_structure rdfs:label ?anatomical_structure_label }
     OPTIONAL { ?donor ccf:has_biological_sex [ rdfs:label ?donor_sex ] }
 }
-ORDER BY ?as_lbl
+ORDER BY ?anatomical_structure_label

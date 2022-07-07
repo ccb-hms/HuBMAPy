@@ -6,8 +6,8 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX dc: <http://purl.org/dc/terms/>
 PREFIX hgnc: <http://identifiers.org/hgnc/>
 
-SELECT DISTINCT ?ct ?ct_lbl ?as ?as_lbl WHERE {
-    ?ct rdfs:subClassOf [
+SELECT DISTINCT ?cell_type ?cell_type_label ?anatomical_structure ?anatomical_structure_label WHERE {
+    ?cell_type rdfs:subClassOf [
         owl:onProperty obo:RO_0015004 ;
         owl:someValuesFrom ?characterizing_biomarker_set ] .
     ?characterizing_biomarker_set owl:intersectionOf ?list .
@@ -15,11 +15,11 @@ SELECT DISTINCT ?ct ?ct_lbl ?as ?as_lbl WHERE {
       ?list rdf:rest*/rdf:first/owl:someValuesFrom ?marker .
       FILTER ( ?marker IN ( ?biomarkers ) )
     } .
-    ?ct rdfs:label ?ct_lbl .
+    ?cell_type rdfs:label ?cell_type_label .
     OPTIONAL {
-        ?ct ccf:ccf_located_in ?as.
-        ?as rdfs:label ?as_lbl .
+        ?cell_type ccf:ccf_located_in ?anatomical_structure.
+        ?anatomical_structure rdfs:label ?anatomical_structure_label .
     }
 }
-GROUP BY ?ct ?ct_lbl ?as ?as_lbl
-ORDER BY ?ct_lbl
+GROUP BY ?cell_type ?cell_type_label ?anatomical_structure ?anatomical_structure_label
+ORDER BY ?cell_type_label

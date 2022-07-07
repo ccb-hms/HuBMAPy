@@ -1,4 +1,4 @@
-ct,ct_lbl,as,as_lbl
+cell_type,cell_type_label,anatomical_structure,anatomical_structure_label
 http://purl.obolibrary.org/obo/CL_0000236,B cell,http://purl.obolibrary.org/obo/UBERON_0000006,islet of Langerhans
 http://purl.obolibrary.org/obo/CL_0000236,B cell,http://purl.obolibrary.org/obo/UBERON_0000016,endocrine pancreas
 http://purl.obolibrary.org/obo/CL_0000236,B cell,http://purl.obolibrary.org/obo/UBERON_0000017,exocrine pancreas

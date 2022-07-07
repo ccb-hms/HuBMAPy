@@ -1,4 +1,4 @@
-ct_lbl,as_lbl,marker,marker_lbl
+cell_type_label,anatomical_structure_label,marker,marker_label
 memory B cell,bone marrow,http://identifiers.org/hgnc/18233,BANK1
 memory B cell,bone marrow,http://identifiers.org/hgnc/1633,CD19
 memory B cell,bone marrow,http://identifiers.org/hgnc/1643,CD22

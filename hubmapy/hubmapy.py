@@ -1,6 +1,7 @@
 import datetime
 import logging
 import os
+import re
 import sys
 import pandas as pd
 from py4j.java_gateway import JavaGateway
@@ -111,20 +112,20 @@ class HuBMAPy:
 
     def biomarkers_for_all_cell_types_in_anatomical_structure(self, anatomical_structure=_DEFAULT_ANATOMICAL_STRUCTURE):
         query = self._load_query('biomarkers_for_all_cell_types_in_anatomical_structure.rq')
-        query = query.replace("?anatomical_structure", anatomical_structure)
+        query = re.sub(r'\?anatomical_structure\b', anatomical_structure, query)
         return self.do_query(query, query_name=self.biomarkers_for_all_cell_types_in_anatomical_structure.__name__)
 
     def biomarkers_for_cell_type_in_anatomical_structure(self, cell_type=_DEFAULT_CELL_TYPE,
                                                          anatomical_structure=_DEFAULT_ANATOMICAL_STRUCTURE):
         query = self._load_query('biomarkers_for_cell_type_in_anatomical_structure.rq')
-        query = query.replace("?cell_type", cell_type)
-        query = query.replace("?anatomical_structure", anatomical_structure)
+        query = re.sub(r'\?cell_type\b', cell_type, query)
+        query = re.sub(r'\?anatomical_structure\b', anatomical_structure, query)
         return self.do_query(query, query_name=self.biomarkers_for_cell_type_in_anatomical_structure.__name__)
 
     # TODO refactor to obtain tissues that collide with parts of the anatomical structure
     def tissue_blocks_in_anatomical_structure(self, anatomical_structure="obo:UBERON_0000948"):
         query = self._load_query('tissue_blocks_in_anatomical_structure.rq')
-        query = query.replace("?anatomical_structure", anatomical_structure)
+        query = re.sub(r'\?anatomical_structure\b', anatomical_structure, query)
         return self.do_query(query, query_name=self.tissue_blocks_in_anatomical_structure.__name__)
 
     # TODO location of anatomical structure (filler of 'collides_with) is currently represented as a string literal
@@ -134,7 +135,7 @@ class HuBMAPy:
 
     def anatomical_structures_in_tissue_block(self, tissue_block=_DEFAULT_TISSUE_BLOCK):
         query = self._load_query('anatomical_structures_in_tissue_block.rq')
-        query = query.replace("?tissue_block", tissue_block)
+        query = re.sub(r'\?tissue_block\b', tissue_block, query)
         return self.do_query(query, query_name=self.anatomical_structures_in_tissue_block.__name__)
 
     def locations_of_all_cell_types(self):
@@ -143,7 +144,7 @@ class HuBMAPy:
 
     def evidence_for_specific_cell_type(self, cell_type=_DEFAULT_CELL_TYPE):
         query = self._load_query('evidence_for_specific_cell_type.rq')
-        query = query.replace("?cell_type", cell_type)
+        query = re.sub(r'\?cell_type\b', cell_type, query)
         return self.do_query(query, query_name=self.evidence_for_specific_cell_type.__name__)
 
     def evidence_for_all_cell_types(self):
@@ -152,7 +153,7 @@ class HuBMAPy:
 
     def cell_types_from_biomarkers(self, biomarkers=_DEFAULT_BIOMARKERS):
         query = self._load_query('cell_types_from_biomarkers.rq')
-        query = query.replace("?biomarkers", biomarkers)
+        query = re.sub(r'\?biomarkers\b', biomarkers, query)
         return self.do_query(query, query_name=self.cell_types_from_biomarkers.__name__)
 
     @staticmethod

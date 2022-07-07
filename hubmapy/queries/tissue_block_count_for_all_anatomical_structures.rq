@@ -6,11 +6,11 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX dc: <http://purl.org/dc/terms/>
 PREFIX hgnc: <http://identifiers.org/hgnc/>
 
-SELECT (count(?tb) as ?tissue_block_count) ?as_lbl ?as WHERE {
-    ?tb rdf:type ccf:tissue_block ;
-        ccf:has_registration_location [ ccf:collides_with ?as ] .
-    BIND(IRI(?as) as ?as_iri) .
-    ?as_iri rdfs:label ?as_lbl
+SELECT (count(?tissue_block) as ?tissue_block_count) ?anatomical_structure ?anatomical_structure_label WHERE {
+    ?tissue_block rdf:type ccf:tissue_block ;
+        ccf:has_registration_location [ ccf:collides_with ?anatomical_structure ] .
+    BIND(IRI(?anatomical_structure) as ?anatomical_structure_iri) .
+    ?anatomical_structure_iri rdfs:label ?anatomical_structure_label
 }
-GROUP BY ?as ?as_lbl
-ORDER BY ?as_lbl
+GROUP BY ?anatomical_structure ?anatomical_structure_label
+ORDER BY ?anatomical_structure_label

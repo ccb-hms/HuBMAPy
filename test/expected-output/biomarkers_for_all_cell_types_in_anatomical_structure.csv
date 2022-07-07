@@ -1,4 +1,4 @@
-cell_type_id,cell_type,marker_id,marker_label
+cell_type,cell_type_label,marker,marker_label
 http://purl.obolibrary.org/obo/CL_0002396,"CD14-low, CD16-positive monocyte",http://identifiers.org/hgnc/6740,LYZ
 http://purl.obolibrary.org/obo/CL_0002396,"CD14-low, CD16-positive monocyte",http://identifiers.org/hgnc/3623,FCN1
 http://purl.obolibrary.org/obo/CL_0002396,"CD14-low, CD16-positive monocyte",http://identifiers.org/hgnc/2545,CTSS

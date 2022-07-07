@@ -6,9 +6,9 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX dc: <http://purl.org/dc/terms/>
 PREFIX hgnc: <http://identifiers.org/hgnc/>
 
-SELECT ?ct ?ct_lbl ?as ?as_lbl WHERE {
-    ?ct ccf:ccf_located_in ?as .
-    ?ct rdfs:label ?ct_lbl .
-    ?as rdfs:label ?as_lbl
+SELECT ?cell_type ?cell_type_label ?anatomical_structure ?anatomical_structure_label WHERE {
+    ?cell_type ccf:ccf_located_in ?anatomical_structure .
+    ?cell_type rdfs:label ?cell_type_label .
+    ?anatomical_structure rdfs:label ?anatomical_structure_label
 }
-ORDER BY ?ct_lbl
+ORDER BY ?cell_type_label

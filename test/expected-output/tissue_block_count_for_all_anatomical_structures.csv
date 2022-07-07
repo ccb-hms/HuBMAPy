@@ -1,86 +1,86 @@
-tissue_block_count,as_lbl,as
-6,Lateral bronchopulmonary segment,http://purl.org/sig/ont/fma/fma7361
-2,Lateral segmental bronchus,http://purl.org/sig/ont/fma/fma7402
-1,Left apical bronchopulmonary segment,http://purl.org/sig/ont/fma/fma7385
-1,Left apical segmental bronchus,http://purl.org/sig/ont/fma/fma7426
-1,Left posterior bronchopulmonary segment,http://purl.org/sig/ont/fma/fma7386
-7,Medial bronchopulmonary segment,http://purl.org/sig/ont/fma/fma7360
-2,Medial segmental bronchus,http://purl.org/sig/ont/fma/fma7403
-5,Right anterior basal bronchopulmonary segment,http://purl.org/sig/ont/fma/fma7364
-3,Right anterior bronchopulmonary segment,http://purl.org/sig/ont/fma/fma7359
-1,Right lateral basal bronchopulmonary segment,http://purl.org/sig/ont/fma/fma7363
-1,Right lateral basal segmental bronchus,http://purl.org/sig/ont/fma/fma7419
-2,Right medial basal bronchopulmonary segment,http://purl.org/sig/ont/fma/fma7365
-1,Right posterior basal bronchopulmonary segment,http://purl.org/sig/ont/fma/fma7362
-1,Right superior bronchopulmonary segment,http://purl.org/sig/ont/fma/fma7366
-66,afferent lymphatic vessel,http://purl.obolibrary.org/obo/UBERON_0010396
-2,aortic valve,http://purl.obolibrary.org/obo/UBERON_0002137
-18,ascending colon,http://purl.obolibrary.org/obo/UBERON_0001156
-2,blood vasculature,http://purl.obolibrary.org/obo/UBERON_0004537
-4,body of pancreas,http://purl.obolibrary.org/obo/UBERON_0001150
-343,body proper,http://purl.obolibrary.org/obo/UBERON_0013702
-7,bronchus,http://purl.obolibrary.org/obo/UBERON_0002185
-11,caecum,http://purl.obolibrary.org/obo/UBERON_0001153
-66,capsule of lymph node,http://purl.obolibrary.org/obo/UBERON_0002194
-26,cardiac chamber,http://purl.obolibrary.org/obo/UBERON_0004151
-20,cortex of kidney,http://purl.obolibrary.org/obo/UBERON_0001225
-22,descending colon,http://purl.obolibrary.org/obo/UBERON_0001158
-21,duodenum,http://purl.obolibrary.org/obo/UBERON_0002114
-66,efferent lymphatic vessel,http://purl.obolibrary.org/obo/UBERON_0010397
-2,head of pancreas,http://purl.obolibrary.org/obo/UBERON_0001069
-53,heart,http://purl.obolibrary.org/obo/UBERON_0000948
-47,heart left ventricle,http://purl.obolibrary.org/obo/UBERON_0002084
-30,heart right ventricle,http://purl.obolibrary.org/obo/UBERON_0002080
-12,hepatic flexure of colon,http://purl.obolibrary.org/obo/UBERON_0022277
-7,hilum of kidney,http://purl.obolibrary.org/obo/UBERON_0008716
-29,hilum of spleen,http://purl.obolibrary.org/obo/UBERON_0001248
-14,ileum,http://purl.obolibrary.org/obo/UBERON_0002116
-23,interventricular septum,http://purl.obolibrary.org/obo/UBERON_0002094
-25,jejunum,http://purl.obolibrary.org/obo/UBERON_0002115
-60,kidney,http://purl.obolibrary.org/obo/UBERON_0002113
-11,kidney calyx,http://purl.obolibrary.org/obo/UBERON_0006517
-21,kidney capsule,http://purl.obolibrary.org/obo/UBERON_0002015
-15,kidney pyramid,http://purl.obolibrary.org/obo/UBERON_0004200
-35,large intestine,http://purl.obolibrary.org/obo/UBERON_0000059
-7,left cardiac atrium,http://purl.obolibrary.org/obo/UBERON_0002079
-2,left coronary artery,http://purl.obolibrary.org/obo/UBERON_0001626
-34,left kidney,http://purl.obolibrary.org/obo/UBERON_0004538
-3,left lung,http://purl.obolibrary.org/obo/UBERON_0002168
-2,left ureter,http://purl.obolibrary.org/obo/UBERON_0001223
-4,liver,http://purl.obolibrary.org/obo/UBERON_0002107
-5,lower lobe of right lung,http://purl.obolibrary.org/obo/UBERON_0002171
-11,lung,http://purl.obolibrary.org/obo/UBERON_0002048
-29,lymph node,http://purl.obolibrary.org/obo/UBERON_0000029
-3,major calyx,http://purl.obolibrary.org/obo/UBERON_0001226
-66,medulla of lymph node,http://purl.obolibrary.org/obo/UBERON_0002007
-29,mesenteric lymph node,http://purl.obolibrary.org/obo/UBERON_0002509
-7,middle lobe of right lung,http://purl.obolibrary.org/obo/UBERON_0002174
-11,minor calyx,http://purl.obolibrary.org/obo/UBERON_0001227
-4,mitral valve,http://purl.obolibrary.org/obo/UBERON_0002135
-20,outer cortex of kidney,http://purl.obolibrary.org/obo/UBERON_0002189
-1,ovary,http://purl.obolibrary.org/obo/UBERON_0000992
-4,pancreas,http://purl.obolibrary.org/obo/UBERON_0001264
-1,prostate gland,http://purl.obolibrary.org/obo/UBERON_0002367
-3,pulmonary valve,http://purl.obolibrary.org/obo/UBERON_0002146
-7,rectum,http://purl.obolibrary.org/obo/UBERON_0001052
-16,renal column,http://purl.obolibrary.org/obo/UBERON_0001284
-15,renal medulla,http://purl.obolibrary.org/obo/UBERON_0000362
-11,renal papilla,http://purl.obolibrary.org/obo/UBERON_0001228
-11,respiratory system,http://purl.obolibrary.org/obo/UBERON_0001004
-8,right cardiac atrium,http://purl.obolibrary.org/obo/UBERON_0002078
-26,right kidney,http://purl.obolibrary.org/obo/UBERON_0004539
-9,right lung,http://purl.obolibrary.org/obo/UBERON_0002167
-6,segmental bronchus,http://purl.obolibrary.org/obo/UBERON_0002184
-24,sigmoid colon,http://purl.obolibrary.org/obo/UBERON_0001159
-17,skin of body,http://purl.obolibrary.org/obo/UBERON_0002097
-41,small intestine,http://purl.obolibrary.org/obo/UBERON_0002108
-56,spleen,http://purl.obolibrary.org/obo/UBERON_0002106
-9,splenic flexure of colon,http://purl.obolibrary.org/obo/UBERON_0022276
-28,thymus,http://purl.obolibrary.org/obo/UBERON_0002370
-24,transverse colon,http://purl.obolibrary.org/obo/UBERON_0001157
-2,tricuspid valve,http://purl.obolibrary.org/obo/UBERON_0002134
-1,upper lobe of left lung,http://purl.obolibrary.org/obo/UBERON_0008952
-3,upper lobe of right lung,http://purl.obolibrary.org/obo/UBERON_0002170
-1,uterus,http://purl.obolibrary.org/obo/UBERON_0000995
-68,vasculature,http://purl.obolibrary.org/obo/UBERON_0002049
-4,vermiform appendix,http://purl.obolibrary.org/obo/UBERON_0001154
+tissue_block_count,anatomical_structure,anatomical_structure_label
+6,http://purl.org/sig/ont/fma/fma7361,Lateral bronchopulmonary segment
+2,http://purl.org/sig/ont/fma/fma7402,Lateral segmental bronchus
+1,http://purl.org/sig/ont/fma/fma7385,Left apical bronchopulmonary segment
+1,http://purl.org/sig/ont/fma/fma7426,Left apical segmental bronchus
+1,http://purl.org/sig/ont/fma/fma7386,Left posterior bronchopulmonary segment
+7,http://purl.org/sig/ont/fma/fma7360,Medial bronchopulmonary segment
+2,http://purl.org/sig/ont/fma/fma7403,Medial segmental bronchus
+5,http://purl.org/sig/ont/fma/fma7364,Right anterior basal bronchopulmonary segment
+3,http://purl.org/sig/ont/fma/fma7359,Right anterior bronchopulmonary segment
+1,http://purl.org/sig/ont/fma/fma7363,Right lateral basal bronchopulmonary segment
+1,http://purl.org/sig/ont/fma/fma7419,Right lateral basal segmental bronchus
+2,http://purl.org/sig/ont/fma/fma7365,Right medial basal bronchopulmonary segment
+1,http://purl.org/sig/ont/fma/fma7362,Right posterior basal bronchopulmonary segment
+1,http://purl.org/sig/ont/fma/fma7366,Right superior bronchopulmonary segment
+66,http://purl.obolibrary.org/obo/UBERON_0010396,afferent lymphatic vessel
+2,http://purl.obolibrary.org/obo/UBERON_0002137,aortic valve
+18,http://purl.obolibrary.org/obo/UBERON_0001156,ascending colon
+2,http://purl.obolibrary.org/obo/UBERON_0004537,blood vasculature
+4,http://purl.obolibrary.org/obo/UBERON_0001150,body of pancreas
+343,http://purl.obolibrary.org/obo/UBERON_0013702,body proper
+7,http://purl.obolibrary.org/obo/UBERON_0002185,bronchus
+11,http://purl.obolibrary.org/obo/UBERON_0001153,caecum
+66,http://purl.obolibrary.org/obo/UBERON_0002194,capsule of lymph node
+26,http://purl.obolibrary.org/obo/UBERON_0004151,cardiac chamber
+20,http://purl.obolibrary.org/obo/UBERON_0001225,cortex of kidney
+22,http://purl.obolibrary.org/obo/UBERON_0001158,descending colon
+21,http://purl.obolibrary.org/obo/UBERON_0002114,duodenum
+66,http://purl.obolibrary.org/obo/UBERON_0010397,efferent lymphatic vessel
+2,http://purl.obolibrary.org/obo/UBERON_0001069,head of pancreas
+53,http://purl.obolibrary.org/obo/UBERON_0000948,heart
+47,http://purl.obolibrary.org/obo/UBERON_0002084,heart left ventricle
+30,http://purl.obolibrary.org/obo/UBERON_0002080,heart right ventricle
+12,http://purl.obolibrary.org/obo/UBERON_0022277,hepatic flexure of colon
+7,http://purl.obolibrary.org/obo/UBERON_0008716,hilum of kidney
+29,http://purl.obolibrary.org/obo/UBERON_0001248,hilum of spleen
+14,http://purl.obolibrary.org/obo/UBERON_0002116,ileum
+23,http://purl.obolibrary.org/obo/UBERON_0002094,interventricular septum
+25,http://purl.obolibrary.org/obo/UBERON_0002115,jejunum
+60,http://purl.obolibrary.org/obo/UBERON_0002113,kidney
+11,http://purl.obolibrary.org/obo/UBERON_0006517,kidney calyx
+21,http://purl.obolibrary.org/obo/UBERON_0002015,kidney capsule
+15,http://purl.obolibrary.org/obo/UBERON_0004200,kidney pyramid
+35,http://purl.obolibrary.org/obo/UBERON_0000059,large intestine
+7,http://purl.obolibrary.org/obo/UBERON_0002079,left cardiac atrium
+2,http://purl.obolibrary.org/obo/UBERON_0001626,left coronary artery
+34,http://purl.obolibrary.org/obo/UBERON_0004538,left kidney
+3,http://purl.obolibrary.org/obo/UBERON_0002168,left lung
+2,http://purl.obolibrary.org/obo/UBERON_0001223,left ureter
+4,http://purl.obolibrary.org/obo/UBERON_0002107,liver
+5,http://purl.obolibrary.org/obo/UBERON_0002171,lower lobe of right lung
+11,http://purl.obolibrary.org/obo/UBERON_0002048,lung
+29,http://purl.obolibrary.org/obo/UBERON_0000029,lymph node
+3,http://purl.obolibrary.org/obo/UBERON_0001226,major calyx
+66,http://purl.obolibrary.org/obo/UBERON_0002007,medulla of lymph node
+29,http://purl.obolibrary.org/obo/UBERON_0002509,mesenteric lymph node
+7,http://purl.obolibrary.org/obo/UBERON_0002174,middle lobe of right lung
+11,http://purl.obolibrary.org/obo/UBERON_0001227,minor calyx
+4,http://purl.obolibrary.org/obo/UBERON_0002135,mitral valve
+20,http://purl.obolibrary.org/obo/UBERON_0002189,outer cortex of kidney
+1,http://purl.obolibrary.org/obo/UBERON_0000992,ovary
+4,http://purl.obolibrary.org/obo/UBERON_0001264,pancreas
+1,http://purl.obolibrary.org/obo/UBERON_0002367,prostate gland
+3,http://purl.obolibrary.org/obo/UBERON_0002146,pulmonary valve
+7,http://purl.obolibrary.org/obo/UBERON_0001052,rectum
+16,http://purl.obolibrary.org/obo/UBERON_0001284,renal column
+15,http://purl.obolibrary.org/obo/UBERON_0000362,renal medulla
+11,http://purl.obolibrary.org/obo/UBERON_0001228,renal papilla
+11,http://purl.obolibrary.org/obo/UBERON_0001004,respiratory system
+8,http://purl.obolibrary.org/obo/UBERON_0002078,right cardiac atrium
+26,http://purl.obolibrary.org/obo/UBERON_0004539,right kidney
+9,http://purl.obolibrary.org/obo/UBERON_0002167,right lung
+6,http://purl.obolibrary.org/obo/UBERON_0002184,segmental bronchus
+24,http://purl.obolibrary.org/obo/UBERON_0001159,sigmoid colon
+17,http://purl.obolibrary.org/obo/UBERON_0002097,skin of body
+41,http://purl.obolibrary.org/obo/UBERON_0002108,small intestine
+56,http://purl.obolibrary.org/obo/UBERON_0002106,spleen
+9,http://purl.obolibrary.org/obo/UBERON_0022276,splenic flexure of colon
+28,http://purl.obolibrary.org/obo/UBERON_0002370,thymus
+24,http://purl.obolibrary.org/obo/UBERON_0001157,transverse colon
+2,http://purl.obolibrary.org/obo/UBERON_0002134,tricuspid valve
+1,http://purl.obolibrary.org/obo/UBERON_0008952,upper lobe of left lung
+3,http://purl.obolibrary.org/obo/UBERON_0002170,upper lobe of right lung
+1,http://purl.obolibrary.org/obo/UBERON_0000995,uterus
+68,http://purl.obolibrary.org/obo/UBERON_0002049,vasculature
+4,http://purl.obolibrary.org/obo/UBERON_0001154,vermiform appendix

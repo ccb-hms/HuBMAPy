@@ -6,16 +6,16 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX dc: <http://purl.org/dc/terms/>
 PREFIX hgnc: <http://identifiers.org/hgnc/>
 
-SELECT (?ct as ?cell_type_id) (?ct_lbl as ?cell_type) (?marker as ?marker_id) (?marker_lbl as ?marker_label) WHERE {
-    ?ct rdfs:subClassOf [
+SELECT ?cell_type ?cell_type_label ?marker ?marker_label WHERE {
+    ?cell_type rdfs:subClassOf [
         owl:onProperty obo:RO_0015004 ;
         owl:someValuesFrom ?marker_set ] ;
-        rdfs:label ?ct_lbl ;
+        rdfs:label ?cell_type_label ;
         ccf:ccf_located_in ?anatomical_structure .
     ?marker_set owl:intersectionOf ?list .
     ?list rdf:rest*/rdf:first [
         owl:onProperty ccf:has_marker_component ;
         owl:someValuesFrom ?marker ] .
-    ?marker rdfs:label ?marker_lbl
+    ?marker rdfs:label ?marker_label
 }
-ORDER BY ?ct_lbl
+ORDER BY ?cell_type_label
