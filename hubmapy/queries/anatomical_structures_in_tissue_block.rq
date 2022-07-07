@@ -13,3 +13,4 @@ SELECT ?as ?as_lbl ?donor ?donor_sex WHERE {
     OPTIONAL { ?as rdfs:label ?as_lbl }
     OPTIONAL { ?donor ccf:has_biological_sex [ rdfs:label ?donor_sex ] }
 }
+ORDER BY ?as_lbl

@@ -19,3 +19,4 @@ SELECT ?ct ?ct_lbl ?marker ?marker_lbl WHERE {
         owl:someValuesFrom ?marker ] .
     ?marker rdfs:label ?marker_lbl
 }
+ORDER BY ?ct_lbl

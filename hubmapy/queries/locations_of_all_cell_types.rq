@@ -11,3 +11,4 @@ SELECT ?ct ?ct_lbl ?as ?as_lbl WHERE {
     ?ct rdfs:label ?ct_lbl .
     ?as rdfs:label ?as_lbl
 }
+ORDER BY ?ct_lbl

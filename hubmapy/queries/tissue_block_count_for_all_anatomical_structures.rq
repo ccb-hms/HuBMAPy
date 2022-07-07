@@ -13,3 +13,4 @@ SELECT (count(?tb) as ?tissue_block_count) ?as_lbl ?as WHERE {
     ?as_iri rdfs:label ?as_lbl
 }
 GROUP BY ?as ?as_lbl
+ORDER BY ?as_lbl

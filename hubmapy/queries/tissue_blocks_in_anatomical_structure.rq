@@ -12,3 +12,4 @@ SELECT (?tb as ?tissue_block) ?donor ?donor_sex WHERE {
         ccf:comes_from ?donor .
     ?donor ccf:has_biological_sex [ rdfs:label ?donor_sex ]
 }
+ORDER BY ?tb

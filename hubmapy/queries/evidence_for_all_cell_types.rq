@@ -13,3 +13,4 @@ SELECT ?ct_lbl ?ct ?doi WHERE {
         dc:references ?doi ] .
     ?ct rdfs:label ?ct_lbl
 }
+ORDER BY ?ct_lbl

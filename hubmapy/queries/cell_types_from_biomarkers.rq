@@ -6,7 +6,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX dc: <http://purl.org/dc/terms/>
 PREFIX hgnc: <http://identifiers.org/hgnc/>
 
-SELECT DISTINCT ?ct ?ct_label ?as ?as_label WHERE {
+SELECT DISTINCT ?ct ?ct_lbl ?as ?as_lbl WHERE {
     ?ct rdfs:subClassOf [
         owl:onProperty obo:RO_0015004 ;
         owl:someValuesFrom ?characterizing_biomarker_set ] .
@@ -15,11 +15,11 @@ SELECT DISTINCT ?ct ?ct_label ?as ?as_label WHERE {
       ?list rdf:rest*/rdf:first/owl:someValuesFrom ?marker .
       FILTER ( ?marker IN ( ?biomarkers ) )
     } .
-    ?ct rdfs:label ?ct_label .
+    ?ct rdfs:label ?ct_lbl .
     OPTIONAL {
         ?ct ccf:ccf_located_in ?as.
-        ?as rdfs:label ?as_label .
+        ?as rdfs:label ?as_lbl .
     }
 }
-GROUP BY ?ct ?ct_label ?as ?as_label
-ORDER BY ?ct_label
+GROUP BY ?ct ?ct_lbl ?as ?as_lbl
+ORDER BY ?ct_lbl

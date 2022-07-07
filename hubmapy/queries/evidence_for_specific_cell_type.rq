@@ -12,3 +12,4 @@ SELECT ?doi WHERE {
         owl:annotatedProperty rdfs:subClassOf ;
         dc:references ?doi ]
 }
+ORDER BY ?doi
