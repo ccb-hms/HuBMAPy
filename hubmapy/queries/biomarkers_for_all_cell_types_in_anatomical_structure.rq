@@ -6,7 +6,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX dc: <http://purl.org/dc/terms/>
 PREFIX hgnc: <http://identifiers.org/hgnc/>
 
-SELECT ?cell_type ?cell_type_label ?marker ?marker_label WHERE {
+SELECT DISTINCT ?cell_type ?cell_type_label ?marker ?marker_label ?doi WHERE {
     ?cell_type rdfs:subClassOf [
         owl:onProperty obo:RO_0015004 ;
         owl:someValuesFrom ?marker_set ] ;
@@ -17,5 +17,11 @@ SELECT ?cell_type ?cell_type_label ?marker ?marker_label WHERE {
         owl:onProperty ccf:has_marker_component ;
         owl:someValuesFrom ?marker ] .
     ?marker rdfs:label ?marker_label
+    OPTIONAL {
+        [ rdf:type owl:Axiom ;
+        owl:annotatedSource ?cell_type ;
+        owl:annotatedProperty rdfs:subClassOf ;
+        dc:references ?doi ]
+    }
 }
 ORDER BY ?cell_type_label
