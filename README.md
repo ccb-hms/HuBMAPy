@@ -1,8 +1,13 @@
 # HuBMAPy
 
-A package to query the HuBMAP Human Reference Atlas Ontology. The package can be used programmatically or through a command-line interface.
+A package to interact with the [HuBMAP Human Reference Atlas Ontology](https://github.com/hubmapconsortium/ccf-ontology). The package can be used to perform ontology queries programmatically or through a command-line interface.
 
 ## Installation
+
+Clone the repository:
+```
+git clone https://github.com/ccb-hms/HuBMAPy.git
+```
 
 Install package using **pip** on the cloned repository folder:
 
