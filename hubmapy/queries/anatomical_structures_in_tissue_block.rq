@@ -6,11 +6,14 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX dc: <http://purl.org/dc/terms/>
 PREFIX hgnc: <http://identifiers.org/hgnc/>
 
-SELECT ?anatomical_structure ?anatomical_structure_label ?donor ?donor_sex WHERE {
-    ?tissue_block rdf:type ccf:tissue_block ;
+SELECT DISTINCT ?anatomical_structure ?anatomical_structure_label ?donor ?donor_sex
+FROM <https://purl.humanatlas.io/graph/ccf>
+FROM <https://purl.humanatlas.io/ds-graph/hubmap>
+WHERE {
+    ?tissue_block rdf:type ccf:Sample ;
         ccf:has_registration_location [ ccf:collides_with ?anatomical_structure ] ;
         ccf:comes_from ?donor .
     OPTIONAL { ?anatomical_structure rdfs:label ?anatomical_structure_label }
-    OPTIONAL { ?donor ccf:has_biological_sex [ rdfs:label ?donor_sex ] }
+    OPTIONAL { ?donor ccf:sex ?donor_sex }
 }
 ORDER BY ?anatomical_structure_label
