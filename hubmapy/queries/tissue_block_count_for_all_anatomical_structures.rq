@@ -6,8 +6,11 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX dc: <http://purl.org/dc/terms/>
 PREFIX hgnc: <http://identifiers.org/hgnc/>
 
-SELECT (count(?tissue_block) as ?tissue_block_count) ?anatomical_structure ?anatomical_structure_label WHERE {
-    ?tissue_block rdf:type ccf:tissue_block ;
+SELECT (count(?tissue_block) as ?tissue_block_count) ?anatomical_structure ?anatomical_structure_label
+FROM <https://purl.humanatlas.io/graph/ccf>
+FROM <https://purl.humanatlas.io/ds-graph/hubmap>
+WHERE {
+    ?tissue_block rdf:type ccf:Sample ;
         ccf:has_registration_location [ ccf:collides_with ?anatomical_structure ] .
     BIND(IRI(?anatomical_structure) as ?anatomical_structure_iri) .
     ?anatomical_structure_iri rdfs:label ?anatomical_structure_label
